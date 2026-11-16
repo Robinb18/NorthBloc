@@ -1,12 +1,12 @@
 // Northbloc service worker: app and climb data cached for offline use, map tiles cached as you view or download them.
-const APP = "northbloc-app-v1", TILES = "northbloc-tiles-v1";
+const APP = "northbloc-app-v2", TILES = "northbloc-tiles-v1";
 const SHELL = ["./", "index.html", "app.js", "vendor/leaflet.js", "data/crags.json", "data/shaftoe.json", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 self.addEventListener("install", (e) => { e.waitUntil(caches.open(APP).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting())); });
 self.addEventListener("activate", (e) => { e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== APP && k !== TILES).map((k) => caches.delete(k)))).then(() => self.clients.claim())); });
 self.addEventListener("fetch", (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== "GET") return;
-  const isTile = /basemaps\.cartocdn\.com|arcgisonline\.com/.test(url.hostname);
+  const isTile = /tile\.openstreetmap\.org|arcgisonline\.com/.test(url.hostname);
   if (isTile) {
     e.respondWith(caches.open(TILES).then(async (c) => {
       const hit = await c.match(e.request, { ignoreVary: true });

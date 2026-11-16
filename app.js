@@ -153,7 +153,7 @@
   // ---------- map ----------
   const CRAG_Z = 14.5, BOULDER_Z = 16, NUM_Z = 19;
   const BASES = [
-    { id: "dark", name: "Dark map", make: () => L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", { subdomains: "abcd", maxNativeZoom: 19, maxZoom: 22, className: "tiles-dim", attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> © <a href="https://carto.com/attributions">CARTO</a>' }) },
+    { id: "dark", name: "Dark map", make: () => L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxNativeZoom: 19, maxZoom: 22, className: "tiles-dark", attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' }) },
     { id: "sat", name: "Satellite", make: () => L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", { maxNativeZoom: 19, maxZoom: 22, attribution: "Imagery © Esri, Maxar, Earthstar Geographics" }) },
     { id: "none", name: "Boulders only", make: () => null },
   ];
@@ -544,7 +544,7 @@
       "<p><b>" + fixes + "</b> boulder" + (fixes === 1 ? "" : "s") + " fixed so far.</p>" +
       (fixes ? '<button class="btn-line" id="copyFixes">' + ICON.copy + 'Copy fixes</button><textarea class="export" id="fixText" readonly aria-label="Position fixes">' + esc(JSON.stringify(S.fixes, null, 1)) + "</textarea>" : "") + "</div>";
     h += '<div class="card"><h2>Adding crags and climbs</h2><p>Each crag is one file in the <b>data</b> folder, and data/crags.json lists them. Copy shaftoe.json, change the names, grades and positions, and add the file name to the list. Each problem has a <b>photo</b> slot for a topo picture.</p><p>Photos you add from your phone appear straight away but stay on your phone until they are added to the data.</p></div>';
-    h += '<div class="card"><h2>About the data</h2><p>' + S.crags.map((c) => esc(c.source)).join(" ") + "</p>" + S.crags.flatMap((c) => (c.missing || []).map((m) => "<p>" + esc(m) + "</p>")).join("") + "<p>Map tiles © OpenStreetMap contributors, CARTO and Esri.</p></div></div>";
+    h += '<div class="card"><h2>About the data</h2><p>' + S.crags.map((c) => esc(c.source)).join(" ") + "</p>" + S.crags.flatMap((c) => (c.missing || []).map((m) => "<p>" + esc(m) + "</p>")).join("") + "<p>Map data © OpenStreetMap contributors. Satellite imagery © Esri.</p></div></div>";
     $("discover").innerHTML = h;
     $("discover").querySelectorAll("[data-s]").forEach((b) => b.onclick = () => { const s = S.sectors.find((x) => x.crag.id + "/" + x.id === b.dataset.s); showTab("map"); flyToSector(s); });
     $("showCheck").onclick = () => { Object.assign(S.filters, { check: true }); applyFilters(); showTab("map"); const b = L.latLngBounds(visibleProblems().map((p) => p.ll)); map.flyToBounds(b, { padding: [60, 140], duration: .8 }); toast("Showing problems that need checking. Clear it in Filters.", 2600); };
@@ -634,8 +634,7 @@
     const tiles = tileList(bounds, 12, 18);
     let done = 0, failed = 0; const total = tiles.length;
     toast("Saving " + total + " map tiles for offline use…", 2000);
-    const subs = "abcd";
-    const urlFor = (t) => L.Util.template(layer._url, { s: subs[(t.x + t.y) % 4], x: t.x, y: t.y, z: t.z, r: (window.devicePixelRatio > 1 ? "@2x" : "") });
+    const urlFor = (t) => L.Util.template(layer._url, { x: t.x, y: t.y, z: t.z });
     const queue = tiles.slice();
     async function worker() {
       while (queue.length) {
