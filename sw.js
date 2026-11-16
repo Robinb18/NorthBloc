@@ -1,5 +1,5 @@
 // Northbloc service worker: app and climb data cached for offline use, map tiles cached as you view or download them.
-const APP = "northbloc-app-v2", TILES = "northbloc-tiles-v1";
+const APP = "northbloc-app-v3", TILES = "northbloc-tiles-v1";
 const SHELL = ["./", "index.html", "app.js", "vendor/leaflet.js", "data/crags.json", "data/shaftoe.json", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 self.addEventListener("install", (e) => { e.waitUntil(caches.open(APP).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting())); });
 self.addEventListener("activate", (e) => { e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== APP && k !== TILES).map((k) => caches.delete(k)))).then(() => self.clients.claim())); });
@@ -17,8 +17,8 @@ self.addEventListener("fetch", (e) => {
     return;
   }
   if (url.origin === location.origin) {
-    // network first for data so new climbs show up, cache fallback offline
-    e.respondWith(fetch(e.request).then((r) => { if (r.ok) caches.open(APP).then((c) => c.put(e.request, r.clone())); return r; })
+    // network first (skipping the browser cache) so updates and new climbs show up, cache fallback offline
+    e.respondWith(fetch(url.href, { cache: "no-cache" }).then((r) => { if (r.ok) caches.open(APP).then((c) => c.put(e.request, r.clone())); return r; })
       .catch(() => caches.match(e.request, { ignoreSearch: true }).then((r) => r || caches.match("index.html"))));
   } else if (/fonts\.(googleapis|gstatic)\.com/.test(url.hostname)) {
     e.respondWith(caches.open(APP).then(async (c) => { const hit = await c.match(e.request); if (hit) return hit; const r = await fetch(e.request); c.put(e.request, r.clone()); return r; }));
