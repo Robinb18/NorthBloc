@@ -1,6 +1,8 @@
 import json, math, sys
 sys.path.insert(0,'.')
 from spec import S
+from fit import fit
+fit(S)
 LAT0, LON0 = 55.13638, -1.91605   # NZ054824 (centre of the 100m square)
 def ll(x,y): return round(LAT0 + y/111320,6), round(LON0 + x/(111320*math.cos(math.radians(LAT0))),6)
 SECT = [
@@ -34,9 +36,11 @@ for sid,name,desc in SECT:
     bl.append({"id":b['id'],"name":b['name'],"lat":lat,"lon":lon,"positionEstimated":True,
                "size":[b['w'],b['h']],"rotation":b['rot'],"description":b['desc'],"problems":probs})
   sectors.append({"id":sid,"name":name,"description":desc,"boulders":bl})
+_xs=[b['x'] for b in S]; _ys=[b['y'] for b in S]
+CLAT,CLON=ll((min(_xs)+max(_xs))/2,(min(_ys)+max(_ys))/2)
 crag={
  "id":"shaftoe","name":"Shaftoe","region":"Northumberland",
- "gridRef":"NZ054824","lat":LAT0,"lon":LON0,"altitude":"212m","aspect":"Mostly west facing","approach":"5 to 10 minutes",
+ "gridRef":"NZ054824","lat":CLAT,"lon":CLON,"altitude":"212m","aspect":"Mostly west facing","approach":"5 to 10 minutes",
  "access":"Open access land (CRoW).",
  "parking":[
    {"name":"Bolam West Houses track (limited)","lat":55.1365,"lon":-1.9092,"positionEstimated":True,
@@ -44,7 +48,7 @@ crag={
    {"name":"A696 lay-by (Ferney Chesters)","lat":55.1224,"lon":-1.9176,"positionEstimated":True,
     "note":"From Belsay follow the A696 towards Jedburgh and park in the lay-by on the right. Walk back to the track signed Ferney Chesters and Shaftoe Grange, about 5 minutes to the crag."}],
  "notes":"Over 300 problems on 50+ boulders across Shaftoe Moor. The ground gets wet and boggy in winter and after long rain. Rock quality varies, and it can be soft and friable at the base of some boulders.",
- "positionsNote":"All boulder positions are estimated from the guidebook's not-to-scale sketch maps, anchored on grid reference NZ054824. Expect them to be tens of metres out. Correct them on site with the Move boulder tool.",
+ "positionsNote":"Boulder positions are estimated. The guidebook's sketch maps were lined up with the rocks visible on satellite imagery and mapped in OpenStreetMap, then each boulder was placed on the nearest mapped rock. Some may still be tens of metres out, so correct them on site with the Fix position tool.",
  "source":"Problem names, numbers and grades from the Northumberland guidebook (Shaftoe pages 332-383). Descriptions written fresh for this app.",
  "missing":["Central Area problems 37-72 (Boulder by the Gate, Undercut Walls, Mrs Mops, The Ravine, The Big Birch, Dead Pine) were on pages 348-351, which were not in the photos."],
  "sectors":sectors}

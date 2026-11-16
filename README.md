@@ -46,4 +46,4 @@ Each crag has `sectors` (areas), each sector has `boulders`, each boulder has `p
 
 ## Fixing positions
 
-Shaftoe's boulder positions are estimated from the guidebook's sketch maps. At the crag, open a problem, tap **Fix position**, then drag the boulder or use your GPS. The Discover tab lists your fixes so they can be copied back into the data file.
+Shaftoe's boulder positions are estimated. `tools/fit.py` lines the guidebook sketch maps up with the rocks on satellite imagery and the rock outlines mapped in OpenStreetMap (`tools/osm_rocks.json`, © OpenStreetMap contributors, ODbL), then puts each boulder on the nearest mapped rock. At the crag, open a problem, tap **Fix position**, then drag the boulder or use your GPS. The Discover tab lists your fixes so they can be copied back into the data file.

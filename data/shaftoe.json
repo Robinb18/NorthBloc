@@ -3,8 +3,8 @@
  "name": "Shaftoe",
  "region": "Northumberland",
  "gridRef": "NZ054824",
- "lat": 55.13638,
- "lon": -1.91605,
+ "lat": 55.135639,
+ "lon": -1.916537,
  "altitude": "212m",
  "aspect": "Mostly west facing",
  "approach": "5 to 10 minutes",
@@ -26,7 +26,7 @@
   }
  ],
  "notes": "Over 300 problems on 50+ boulders across Shaftoe Moor. The ground gets wet and boggy in winter and after long rain. Rock quality varies, and it can be soft and friable at the base of some boulders.",
- "positionsNote": "All boulder positions are estimated from the guidebook's not-to-scale sketch maps, anchored on grid reference NZ054824. Expect them to be tens of metres out. Correct them on site with the Move boulder tool.",
+ "positionsNote": "Boulder positions are estimated. The guidebook's sketch maps were lined up with the rocks visible on satellite imagery and mapped in OpenStreetMap, then each boulder was placed on the nearest mapped rock. Some may still be tens of metres out, so correct them on site with the Fix position tool.",
  "source": "Problem names, numbers and grades from the Northumberland guidebook (Shaftoe pages 332-383). Descriptions written fresh for this app.",
  "missing": [
   "Central Area problems 37-72 (Boulder by the Gate, Undercut Walls, Mrs Mops, The Ravine, The Big Birch, Dead Pine) were on pages 348-351, which were not in the photos."
@@ -40,14 +40,14 @@
     {
      "id": "rift-north",
      "name": "The Rift, North Side",
-     "lat": 55.138734,
-     "lon": -1.911886,
+     "lat": 55.136227,
+     "lon": -1.91121,
      "positionEstimated": true,
      "size": [
       62,
       9
      ],
-     "rotation": -8,
+     "rotation": 0,
      "description": "Long roofed wall on the north side of a usually dry valley running east to west. The roofed traverses stay dry in light rain.",
      "problems": [
       {
@@ -111,14 +111,14 @@
     {
      "id": "rift-west",
      "name": "The Rift, West Block",
-     "lat": 55.138787,
-     "lon": -1.912828,
+     "lat": 55.136155,
+     "lon": -1.912687,
      "positionEstimated": true,
      "size": [
       14,
       6
      ],
-     "rotation": -8,
+     "rotation": 7,
      "description": "Short wall about 50m left (west) of the main north side roof.",
      "problems": [
       {
@@ -134,8 +134,8 @@
     {
      "id": "rift-south",
      "name": "The Rift, South Side",
-     "lat": 55.138518,
-     "lon": -1.912043,
+     "lat": 55.135994,
+     "lon": -1.911367,
      "positionEstimated": true,
      "size": [
       48,
@@ -176,14 +176,14 @@
     {
      "id": "rift-schism",
      "name": "Schism Wall",
-     "lat": 55.1385,
-     "lon": -1.912907,
+     "lat": 55.136146,
+     "lon": -1.912294,
      "positionEstimated": true,
      "size": [
       30,
       7
      ],
-     "rotation": -5,
+     "rotation": 7,
      "description": "Western end of the south side.",
      "problems": [
       {
@@ -236,14 +236,14 @@
     {
      "id": "pudding-stone",
      "name": "The Pudding Stone",
-     "lat": 55.143387,
-     "lon": -1.917622,
+     "lat": 55.141932,
+     "lon": -1.91385,
      "positionEstimated": true,
      "size": [
       9,
       6
      ],
-     "rotation": 20,
+     "rotation": 14,
      "description": "Second-to-last boulder in a group at the far north end of the escarpment, with a crack on its left side.",
      "problems": [
       {
@@ -273,14 +273,14 @@
     {
      "id": "north-buttress",
      "name": "North Buttress",
-     "lat": 55.143135,
-     "lon": -1.917747,
+     "lat": 55.141923,
+     "lon": -1.91374,
      "positionEstimated": true,
      "size": [
       16,
       7
      ],
-     "rotation": 20,
+     "rotation": -36,
      "description": "Small crag at the north end of the escarpment, 25m south of the Pudding Stone.",
      "problems": [
       {
@@ -330,14 +330,14 @@
     {
      "id": "arete-land",
      "name": "Arête Land (Hallions Rocks)",
-     "lat": 55.141321,
-     "lon": -1.919774,
+     "lat": 55.139722,
+     "lon": -1.916333,
      "positionEstimated": true,
      "size": [
       22,
       10
      ],
-     "rotation": 15,
+     "rotation": 62,
      "description": "Small outcrop with an off-width crack in the middle and an overhanging arête at the right end. Marked as Hallions Rocks on OS maps. The most popular spot in Shaftoe North.",
      "problems": [
       {
@@ -460,14 +460,14 @@
     {
      "id": "six-pack",
      "name": "Six Pack",
-     "lat": 55.140979,
-     "lon": -1.919837,
+     "lat": 55.139587,
+     "lon": -1.916584,
      "positionEstimated": true,
      "size": [
       9,
       5
      ],
-     "rotation": 15,
+     "rotation": 62,
      "description": "Heavily undercut shelf with a short crack just to its right.",
      "problems": [
       {
@@ -499,14 +499,14 @@
     {
      "id": "punishment-block",
      "name": "Punishment Block",
-     "lat": 55.140638,
-     "lon": -1.919916,
+     "lat": 55.139255,
+     "lon": -1.916789,
      "positionEstimated": true,
      "size": [
       12,
       7
      ],
-     "rotation": 10,
+     "rotation": 62,
      "description": "Whale-shaped boulder with a big fallen block under its roof. The slab on the north side has the first three problems.",
      "problems": [
       {
@@ -566,14 +566,14 @@
     {
      "id": "dolphin",
      "name": "Dolphin",
-     "lat": 55.140333,
-     "lon": -1.919963,
+     "lat": 55.138922,
+     "lon": -1.916883,
      "positionEstimated": true,
      "size": [
       10,
       5
      ],
-     "rotation": 10,
+     "rotation": 75,
      "description": "Boulder just south of the Punishment Block.",
      "problems": [
       {
@@ -607,14 +607,14 @@
     {
      "id": "inclined-slab",
      "name": "The Inclined Slab",
-     "lat": 55.140135,
-     "lon": -1.919759,
+     "lat": 55.138761,
+     "lon": -1.916883,
      "positionEstimated": true,
      "size": [
       5,
       8
      ],
-     "rotation": -20,
+     "rotation": 75,
      "description": "A tilted slab resting on two other boulders.",
      "problems": [
       {
@@ -630,14 +630,14 @@
     {
      "id": "grindstone",
      "name": "The Grindstone",
-     "lat": 55.139955,
-     "lon": -1.920057,
+     "lat": 55.138554,
+     "lon": -1.917071,
      "positionEstimated": true,
      "size": [
       9,
       8
      ],
-     "rotation": 0,
+     "rotation": 75,
      "description": "Dome-topped boulder with a 2m roof and two smaller boulders under it. Two easy warm-ups go either side of the arête to its right.",
      "problems": [
       {
@@ -669,14 +669,14 @@
     {
      "id": "jubilee-boulder",
      "name": "Jubilee Boulder",
-     "lat": 55.139273,
-     "lon": -1.920167,
+     "lat": 55.137853,
+     "lon": -1.917291,
      "positionEstimated": true,
      "size": [
       12,
       6
      ],
-     "rotation": 10,
+     "rotation": 83,
      "description": "75m further south, just north-west of the Jubilee Stone on top of the escarpment. Grassy on top at the left end, with a nose over a 2m roof on the right.",
      "problems": [
       {
@@ -701,14 +701,14 @@
     {
      "id": "salters-nick",
      "name": "Salter's Nick",
-     "lat": 55.13735,
-     "lon": -1.918124,
+     "lat": 55.135607,
+     "lon": -1.918282,
      "positionEstimated": true,
      "size": [
       24,
       10
      ],
-     "rotation": 30,
+     "rotation": 88,
      "description": "The big rock outcrop at the west end of the escarpment. The first problem is on the right of the wide track in the small gorge, where the rock turns undercut.",
      "problems": [
       {
@@ -752,14 +752,14 @@
     {
      "id": "snail-boulder",
      "name": "Snail Boulder",
-     "lat": 55.137117,
-     "lon": -1.918407,
+     "lat": 55.135338,
+     "lon": -1.91836,
      "positionEstimated": true,
      "size": [
       3,
       3
      ],
-     "rotation": 0,
+     "rotation": 88,
      "description": "Tiny boulder below Salter's Nick.",
      "problems": [
       {
@@ -775,14 +775,14 @@
     {
      "id": "salters-nick-boulder",
      "name": "Salter's Nick Boulder",
-     "lat": 55.137009,
-     "lon": -1.917967,
+     "lat": 55.13523,
+     "lon": -1.918172,
      "positionEstimated": true,
      "size": [
       16,
       7
      ],
-     "rotation": 10,
+     "rotation": 84,
      "description": "Long boulder south of Salter's Nick.",
      "problems": [
       {
@@ -831,14 +831,14 @@
     {
      "id": "small-boulder",
      "name": "Small Boulder",
-     "lat": 55.137081,
-     "lon": -1.917653,
+     "lat": 55.135194,
+     "lon": -1.917873,
      "positionEstimated": true,
      "size": [
       4,
       3
      ],
-     "rotation": 0,
+     "rotation": -23,
      "description": "Small boulder east of Salter's Nick Boulder.",
      "problems": [
       {
@@ -854,14 +854,14 @@
     {
      "id": "syco-sheep",
      "name": "Syco Sheep Wall",
-     "lat": 55.137206,
-     "lon": -1.917496,
+     "lat": 55.135482,
+     "lon": -1.918046,
      "positionEstimated": true,
      "size": [
       6,
       4
      ],
-     "rotation": 0,
+     "rotation": 84,
      "description": "Wall with a bottomless arête.",
      "problems": [
       {
@@ -885,14 +885,14 @@
     {
      "id": "finger-bowl",
      "name": "Finger Bowl Boulders",
-     "lat": 55.137153,
-     "lon": -1.917213,
+     "lat": 55.135104,
+     "lon": -1.917559,
      "positionEstimated": true,
      "size": [
       8,
       4
      ],
-     "rotation": 0,
+     "rotation": -23,
      "description": "A few metres right of Syco Sheep Wall.",
      "problems": [
       {
@@ -921,8 +921,8 @@
     {
      "id": "lost-arrowhead-lower",
      "name": "Lost Arrowhead Lower Boulder",
-     "lat": 55.13726,
-     "lon": -1.916679,
+     "lat": 55.135482,
+     "lon": -1.916804,
      "positionEstimated": true,
      "size": [
       10,
@@ -977,8 +977,8 @@
     {
      "id": "lost-arrowhead-cave",
      "name": "Lost Arrowhead Cave",
-     "lat": 55.137422,
-     "lon": -1.916333,
+     "lat": 55.135643,
+     "lon": -1.916459,
      "positionEstimated": true,
      "size": [
       12,
@@ -1055,8 +1055,8 @@
     {
      "id": "crucifix",
      "name": "Crucifix Boulder",
-     "lat": 55.137386,
-     "lon": -1.91539,
+     "lat": 55.135607,
+     "lon": -1.915516,
      "positionEstimated": true,
      "size": [
       12,
@@ -1117,8 +1117,8 @@
     {
      "id": "oyster-rock",
      "name": "Oyster Rock (Wall Boulder)",
-     "lat": 55.13726,
-     "lon": -1.914321,
+     "lat": 55.135482,
+     "lon": -1.914447,
      "positionEstimated": true,
      "size": [
       8,
@@ -1140,8 +1140,8 @@
     {
      "id": "boulder-in-the-woods",
      "name": "Boulder in the Woods",
-     "lat": 55.136847,
-     "lon": -1.913064,
+     "lat": 55.135068,
+     "lon": -1.91319,
      "positionEstimated": true,
      "size": [
       6,
@@ -1170,8 +1170,8 @@
     {
      "id": "font-boulder",
      "name": "Font Boulder",
-     "lat": 55.136578,
-     "lon": -1.922807,
+     "lat": 55.134197,
+     "lon": -1.92089,
      "positionEstimated": true,
      "size": [
       14,
@@ -1291,14 +1291,14 @@
     {
      "id": "the-business",
      "name": "The Business",
-     "lat": 55.136452,
-     "lon": -1.9221,
+     "lat": 55.133919,
+     "lon": -1.920136,
      "positionEstimated": true,
      "size": [
       9,
       5
      ],
-     "rotation": 0,
+     "rotation": 68,
      "description": "Barrel-shaped flat-topped boulder about 50m up the valley from Font Boulder.",
      "problems": [
       {
@@ -1323,14 +1323,14 @@
     {
      "id": "mini-obelisk",
      "name": "Mini Obelisk",
-     "lat": 55.136254,
-     "lon": -1.921896,
+     "lat": 55.133811,
+     "lon": -1.92012,
      "positionEstimated": true,
      "size": [
       4,
       4
      ],
-     "rotation": 45,
+     "rotation": 68,
      "description": "Pyramid-shaped boulder opposite The Business.",
      "problems": [
       {
@@ -1345,14 +1345,14 @@
     {
      "id": "astro",
      "name": "Astro",
-     "lat": 55.136236,
-     "lon": -1.922257,
+     "lat": 55.133865,
+     "lon": -1.920262,
      "positionEstimated": true,
      "size": [
       6,
       4
      ],
-     "rotation": 0,
+     "rotation": 68,
      "description": "First boulder on the right side of the valley up from Font, topped with turf.",
      "problems": [
       {
@@ -1368,14 +1368,14 @@
     {
      "id": "stolen-from-ivor",
      "name": "Stolen from Ivor",
-     "lat": 55.136308,
-     "lon": -1.921236,
+     "lat": 55.13391,
+     "lon": -1.91935,
      "positionEstimated": true,
      "size": [
       10,
       6
      ],
-     "rotation": 0,
+     "rotation": -21,
      "description": "Flat-topped boulder with a notch in the middle, about 100m from Font.",
      "problems": [
       {
@@ -1437,14 +1437,14 @@
     {
      "id": "hair-lip",
      "name": "Hair Lip",
-     "lat": 55.135913,
-     "lon": -1.921582,
+     "lat": 55.133829,
+     "lon": -1.919209,
      "positionEstimated": true,
      "size": [
       8,
       4
      ],
-     "rotation": 0,
+     "rotation": -21,
      "description": "Flat-topped boulder set into the hillside 100m east of Smith's Rocks, with a crack near the middle.",
      "problems": [
       {
@@ -1468,14 +1468,14 @@
     {
      "id": "smiths-rocks",
      "name": "Smith's Rocks",
-     "lat": 55.135886,
-     "lon": -1.923153,
+     "lat": 55.133514,
+     "lon": -1.921252,
      "positionEstimated": true,
      "size": [
       24,
       7
      ],
-     "rotation": -5,
+     "rotation": 65,
      "description": "A ridge of boulders running west to east, 20m north of Turtle Rock.",
      "problems": [
       {
@@ -1611,14 +1611,14 @@
     {
      "id": "turtle-rock",
      "name": "Turtle Rock",
-     "lat": 55.135625,
-     "lon": -1.923247,
+     "lat": 55.133236,
+     "lon": -1.921283,
      "positionEstimated": true,
      "size": [
       14,
       8
      ],
-     "rotation": 0,
+     "rotation": 65,
      "description": "The huge neb on the western edge of Shaftoe. The SW face also has a route, Galapagos Turtle (E5).",
      "problems": [
       {
@@ -1703,14 +1703,14 @@
     {
      "id": "neb-boulder",
      "name": "Neb Boulder",
-     "lat": 55.135374,
-     "lon": -1.923153,
+     "lat": 55.133065,
+     "lon": -1.921252,
      "positionEstimated": true,
      "size": [
       14,
       7
      ],
-     "rotation": 0,
+     "rotation": 65,
      "description": "The smaller neb, 8m south of Turtle Rock. Probably the most climbed boulder at Shaftoe.",
      "problems": [
       {
@@ -1846,14 +1846,14 @@
     {
      "id": "dead-pine",
      "name": "Dead Pine Buttress",
-     "lat": 55.134781,
-     "lon": -1.919806,
+     "lat": 55.13373,
+     "lon": -1.914541,
      "positionEstimated": true,
      "size": [
       18,
       6
      ],
-     "rotation": -10,
+     "rotation": 0,
      "description": "Flat-topped buttress with a full-length roof, split by a chimney, with a dead pine at its right end. The first two problems are on the neb just left of it.",
      "problems": [
       {
@@ -1935,14 +1935,14 @@
     {
      "id": "pygmy-rocks",
      "name": "Pygmy Rocks",
-     "lat": 55.134943,
-     "lon": -1.920843,
+     "lat": 55.133919,
+     "lon": -1.915657,
      "positionEstimated": true,
      "size": [
       7,
       5
      ],
-     "rotation": 0,
+     "rotation": -4,
      "description": "Jumble of boulders 20m before Dishpan Alley.",
      "problems": [
       {
@@ -1976,14 +1976,14 @@
     {
      "id": "the-prow-summit",
      "name": "The Prow",
-     "lat": 55.134835,
-     "lon": -1.921472,
+     "lat": 55.133784,
+     "lon": -1.91627,
      "positionEstimated": true,
      "size": [
       4,
       4
      ],
-     "rotation": 0,
+     "rotation": -14,
      "description": "Small, very undercut boulder just left of Dishpan Alley.",
      "problems": [
       {
@@ -2007,14 +2007,14 @@
     {
      "id": "dishpan-alley",
      "name": "Dishpan Alley",
-     "lat": 55.134781,
-     "lon": -1.921173,
+     "lat": 55.133748,
+     "lon": -1.915971,
      "positionEstimated": true,
      "size": [
       26,
       6
      ],
-     "rotation": -5,
+     "rotation": -14,
      "description": "Small escarpment on the south rim of the main valley, with a crack right of centre and an overhanging nose at the right end. A popular warm-up spot.",
      "problems": [
       {
@@ -2125,14 +2125,14 @@
     {
      "id": "west-wall",
      "name": "West Wall",
-     "lat": 55.134673,
-     "lon": -1.920765,
+     "lat": 55.133541,
+     "lon": -1.915657,
      "positionEstimated": true,
      "size": [
       8,
       5
      ],
-     "rotation": 0,
+     "rotation": -14,
      "description": "Short wall at the right end of Dishpan Alley.",
      "problems": [
       {
@@ -2179,14 +2179,14 @@
     {
      "id": "main-buttress",
      "name": "Main Buttress",
-     "lat": 55.134673,
-     "lon": -1.922352,
+     "lat": 55.13355,
+     "lon": -1.917213,
      "positionEstimated": true,
      "size": [
       18,
       7
      ],
-     "rotation": 0,
+     "rotation": -17,
      "description": "Prominent buttress with a 3m roof about 1m off the ground. Lots of good problems, mostly on slopers.",
      "problems": [
       {
@@ -2283,14 +2283,14 @@
     {
      "id": "fluted-wall",
      "name": "Fluted Wall",
-     "lat": 55.134583,
-     "lon": -1.9221,
+     "lat": 55.133523,
+     "lon": -1.916977,
      "positionEstimated": true,
      "size": [
       8,
       4
      ],
-     "rotation": 0,
+     "rotation": -17,
      "description": "Back wall between Main Buttress and The Cob.",
      "problems": [
       {
@@ -2331,14 +2331,14 @@
     {
      "id": "the-cob",
      "name": "The Cob",
-     "lat": 55.134512,
-     "lon": -1.921896,
+     "lat": 55.133469,
+     "lon": -1.916631,
      "positionEstimated": true,
      "size": [
       12,
       8
      ],
-     "rotation": 0,
+     "rotation": -17,
      "description": "Leaf-shaped buttress right of the Fluted Wall. Its back forms one side of Ship's Bait Cabin.",
      "problems": [
       {
@@ -2454,14 +2454,14 @@
     {
      "id": "galley-wall",
      "name": "Galley Wall (Ship's Bait Cabin)",
-     "lat": 55.134386,
-     "lon": -1.921833,
+     "lat": 55.133443,
+     "lon": -1.916333,
      "positionEstimated": true,
      "size": [
       14,
       4
      ],
-     "rotation": 0,
+     "rotation": -17,
      "description": "Wall facing the back of The Cob, in the small boxed canyon called Ship's Bait Cabin. Many eliminates have been climbed here.",
      "problems": [
       {
@@ -2522,14 +2522,14 @@
     {
      "id": "cow-pat",
      "name": "Cow Pat Buttress",
-     "lat": 55.134538,
-     "lon": -1.92353,
+     "lat": 55.133173,
+     "lon": -1.91814,
      "positionEstimated": true,
      "size": [
       8,
       4
      ],
-     "rotation": 0,
+     "rotation": 3,
      "description": "10m west of and just below The Cob, with a break under the lip. One of three small buttresses above Shaftoe Grange Farm.",
      "problems": [
       {
@@ -2545,14 +2545,14 @@
     {
      "id": "grange-farm",
      "name": "Grange Farm Buttress",
-     "lat": 55.133919,
-     "lon": -1.924049,
+     "lat": 55.13293,
+     "lon": -1.919429,
      "positionEstimated": true,
      "size": [
       7,
       4
      ],
-     "rotation": 0,
+     "rotation": 11,
      "description": "Neglected boulder 20m right of Cow Pat, set into the hillside on the escarpment north-east of Shaftoe Grange Farm.",
      "problems": [
       {
@@ -2592,8 +2592,8 @@
     {
      "id": "provence",
      "name": "Provence Buttress",
-     "lat": 55.133541,
-     "lon": -1.924615,
+     "lat": 55.132463,
+     "lon": -1.919429,
      "positionEstimated": true,
      "size": [
       8,
@@ -2638,8 +2638,8 @@
     {
      "id": "rudders",
      "name": "Rudder's Boulders",
-     "lat": 55.131457,
-     "lon": -1.918879,
+     "lat": 55.131188,
+     "lon": -1.918722,
      "positionEstimated": true,
      "size": [
       14,
@@ -2685,8 +2685,8 @@
     {
      "id": "seadog",
      "name": "The Seadog Boulder",
-     "lat": 55.130793,
-     "lon": -1.91979,
+     "lat": 55.130523,
+     "lon": -1.919633,
      "positionEstimated": true,
      "size": [
       6,
@@ -2708,8 +2708,8 @@
     {
      "id": "punch-bowl",
      "name": "Punch Bowl",
-     "lat": 55.13081,
-     "lon": -1.922022,
+     "lat": 55.130541,
+     "lon": -1.921865,
      "positionEstimated": true,
      "size": [
       12,
@@ -2781,8 +2781,8 @@
     {
      "id": "cave-buttress",
      "name": "Cave Buttress",
-     "lat": 55.130541,
-     "lon": -1.92177,
+     "lat": 55.130271,
+     "lon": -1.921613,
      "positionEstimated": true,
      "size": [
       16,
@@ -2847,8 +2847,8 @@
     {
      "id": "little-dal",
      "name": "Little Dal Buttresses",
-     "lat": 55.130667,
-     "lon": -1.920497,
+     "lat": 55.130397,
+     "lon": -1.92034,
      "positionEstimated": true,
      "size": [
       14,
@@ -2914,14 +2914,14 @@
     {
      "id": "long-wall",
      "name": "Long Wall",
-     "lat": 55.130649,
-     "lon": -1.919586,
+     "lat": 55.13046,
+     "lon": -1.918847,
      "positionEstimated": true,
      "size": [
       14,
       4
      ],
-     "rotation": 0,
+     "rotation": 8,
      "description": "Long traversing wall 30m right of Little Dal.",
      "problems": [
       {
@@ -2945,8 +2945,8 @@
     {
      "id": "wickerman",
      "name": "Wickerman Boulder",
-     "lat": 55.130541,
-     "lon": -1.919837,
+     "lat": 55.130271,
+     "lon": -1.91968,
      "positionEstimated": true,
      "size": [
       4,
@@ -2967,8 +2967,8 @@
     {
      "id": "minuscule-matterhorn",
      "name": "Minuscule Matterhorn",
-     "lat": 55.130289,
-     "lon": -1.919162,
+     "lat": 55.13002,
+     "lon": -1.919004,
      "positionEstimated": true,
      "size": [
       4,
@@ -2998,14 +2998,14 @@
     {
      "id": "central-alcove",
      "name": "Central Alcove",
-     "lat": 55.130487,
-     "lon": -1.917967,
+     "lat": 55.130209,
+     "lon": -1.917559,
      "positionEstimated": true,
      "size": [
       14,
       6
      ],
-     "rotation": 0,
+     "rotation": 13,
      "description": "Alcove set a few metres up the hillside between Café Noir and Two Tier Boulder, with a crack and big chockstone in the middle.",
      "problems": [
       {
@@ -3071,14 +3071,14 @@
     {
      "id": "two-tier",
      "name": "Two Tier Boulder",
-     "lat": 55.130469,
-     "lon": -1.91726,
+     "lat": 55.130236,
+     "lon": -1.917134,
      "positionEstimated": true,
      "size": [
       14,
       8
      ],
-     "rotation": 0,
+     "rotation": 13,
      "description": "Deserves more traffic, and very sheltered from cold northerlies in winter.",
      "problems": [
       {
@@ -3175,14 +3175,14 @@
     {
      "id": "cyclops",
      "name": "Cyclops Buttress",
-     "lat": 55.130604,
-     "lon": -1.916474,
+     "lat": 55.130343,
+     "lon": -1.916757,
      "positionEstimated": true,
      "size": [
       8,
       6
      ],
-     "rotation": 0,
+     "rotation": 13,
      "description": "80m right of Two Tier Boulder.",
      "problems": [
       {
@@ -3232,8 +3232,8 @@
     {
      "id": "halfway-house",
      "name": "Halfway House",
-     "lat": 55.130065,
-     "lon": -1.921346,
+     "lat": 55.129795,
+     "lon": -1.921189,
      "positionEstimated": true,
      "size": [
       5,
@@ -3263,14 +3263,14 @@
     {
      "id": "roadside",
      "name": "Roadside Boulder",
-     "lat": 55.129625,
-     "lon": -1.921456,
+     "lat": 55.129346,
+     "lon": -1.921299,
      "positionEstimated": true,
      "size": [
       10,
       7
      ],
-     "rotation": 0,
+     "rotation": -8,
      "description": "Big boulder at the bottom near the track. Roadside Face problems go left to right; three more are on the Hillside Face behind.",
      "problems": [
       {
