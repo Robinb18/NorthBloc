@@ -1,0 +1,3342 @@
+{
+ "id": "shaftoe",
+ "name": "Shaftoe",
+ "region": "Northumberland",
+ "gridRef": "NZ054824",
+ "lat": 55.13638,
+ "lon": -1.91605,
+ "altitude": "212m",
+ "aspect": "Mostly west facing",
+ "approach": "5 to 10 minutes",
+ "access": "Open access land (CRoW).",
+ "parking": [
+  {
+   "name": "Bolam West Houses track (limited)",
+   "lat": 55.1365,
+   "lon": -1.9092,
+   "positionEstimated": true,
+   "note": "From Belsay take the road past Bolam Lake, turn left down the track at Bolam West Houses (5 mph please). Park just after the cattle grid, or by the small lake without blocking the track. About 10 minutes to the rocks."
+  },
+  {
+   "name": "A696 lay-by (Ferney Chesters)",
+   "lat": 55.1224,
+   "lon": -1.9176,
+   "positionEstimated": true,
+   "note": "From Belsay follow the A696 towards Jedburgh and park in the lay-by on the right. Walk back to the track signed Ferney Chesters and Shaftoe Grange, about 5 minutes to the crag."
+  }
+ ],
+ "notes": "Over 300 problems on 50+ boulders across Shaftoe Moor. The ground gets wet and boggy in winter and after long rain. Rock quality varies, and it can be soft and friable at the base of some boulders.",
+ "positionsNote": "All boulder positions are estimated from the guidebook's not-to-scale sketch maps, anchored on grid reference NZ054824. Expect them to be tens of metres out. Correct them on site with the Move boulder tool.",
+ "source": "Problem names, numbers and grades from the Northumberland guidebook (Shaftoe pages 332-383). Descriptions written fresh for this app.",
+ "missing": [
+  "Central Area problems 37-72 (Boulder by the Gate, Undercut Walls, Mrs Mops, The Ravine, The Big Birch, Dead Pine) were on pages 348-351, which were not in the photos."
+ ],
+ "sectors": [
+  {
+   "id": "rift",
+   "name": "The Rift",
+   "description": "Also called Long Byres. A dry valley on the east side, closest to the eastern parking. Several roofed traverses stay dry in rain.",
+   "boulders": [
+    {
+     "id": "rift-north",
+     "name": "The Rift, North Side",
+     "lat": 55.138734,
+     "lon": -1.911886,
+     "positionEstimated": true,
+     "size": [
+      62,
+      9
+     ],
+     "rotation": -8,
+     "description": "Long roofed wall on the north side of a usually dry valley running east to west. The roofed traverses stay dry in light rain.",
+     "problems": [
+      {
+       "number": "1",
+       "name": "First Problem",
+       "grade": "6a",
+       "description": "Mantel onto the ledge just right of where Perpetual Motion starts.",
+       "photo": null
+      },
+      {
+       "number": "2",
+       "name": "",
+       "grade": "7a+",
+       "traverse": true,
+       "description": "Traverse the lip from the pillar at the right end of the roof, leftwards to the corner past the first boulder.",
+       "photo": null
+      },
+      {
+       "number": "3",
+       "name": "",
+       "grade": "7a",
+       "traverse": true,
+       "description": "Carry on traversing left from the first corner to the second.",
+       "photo": null
+      },
+      {
+       "number": "4",
+       "name": "Perpetual Motion",
+       "grade": "7c",
+       "traverse": true,
+       "description": "Problems 2 and 3 in one go, with no rest in the corner. A pumpy classic.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "5",
+       "name": "",
+       "grade": "5",
+       "traverse": true,
+       "description": "Follow the break at the back of the roof, starting 5m left of the pillar, finishing at the corner past the first boulder.",
+       "photo": null
+      },
+      {
+       "number": "6",
+       "name": "",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "From a sitting start 2m right of the pothole, reach the lip and shuffle left to the pothole to pull over.",
+       "photo": null
+      },
+      {
+       "number": "7",
+       "name": "",
+       "grade": "5+",
+       "traverse": true,
+       "description": "Left-to-right along the break then the lip, ending stood up above the cave.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "rift-west",
+     "name": "The Rift, West Block",
+     "lat": 55.138787,
+     "lon": -1.912828,
+     "positionEstimated": true,
+     "size": [
+      14,
+      6
+     ],
+     "rotation": -8,
+     "description": "Short wall about 50m left (west) of the main north side roof.",
+     "problems": [
+      {
+       "number": "8",
+       "name": "",
+       "grade": "6a",
+       "traverse": true,
+       "description": "From above the block at the left end, follow the lip right, drop to the break, come back left via two big pockets and finish along the lip.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "rift-south",
+     "name": "The Rift, South Side",
+     "lat": 55.138518,
+     "lon": -1.912043,
+     "positionEstimated": true,
+     "size": [
+      48,
+      8
+     ],
+     "rotation": -6,
+     "description": "The opposite (south) wall of the valley.",
+     "problems": [
+      {
+       "number": "9",
+       "name": "",
+       "grade": "?",
+       "traverse": true,
+       "description": "Starts on a layaway at the left end and traverses to the dirty corner.",
+       "photo": null,
+       "check": "Name and grade hidden in the photo"
+      },
+      {
+       "number": "10",
+       "name": "",
+       "grade": "?",
+       "traverse": true,
+       "description": "From the dirty corner, traverse right along the roof until you can land on the block.",
+       "photo": null,
+       "check": "Name and grade hidden in the photo"
+      },
+      {
+       "number": "11",
+       "name": "",
+       "grade": "?",
+       "traverse": true,
+       "description": "Problems 9 and 10 combined, a good stamina workout.",
+       "photo": null,
+       "check": "Number, name and grade hidden in the photo"
+      }
+     ]
+    },
+    {
+     "id": "rift-schism",
+     "name": "Schism Wall",
+     "lat": 55.1385,
+     "lon": -1.912907,
+     "positionEstimated": true,
+     "size": [
+      30,
+      7
+     ],
+     "rotation": -5,
+     "description": "Western end of the south side.",
+     "problems": [
+      {
+       "number": "12",
+       "name": "Schism",
+       "grade": "7a",
+       "traverse": true,
+       "description": "From the dirty corner left of the nose, move left along the break with harder and harder moves until you can step onto the slab.",
+       "photo": null
+      },
+      {
+       "number": "13",
+       "name": "The First Nose",
+       "grade": "6b",
+       "description": "From the shelf under the nose, gain the lip by either line of holds and mantel.",
+       "photo": null
+      },
+      {
+       "number": "14",
+       "name": "The Second Nose",
+       "grade": "6b",
+       "description": "Small crimps right of a leaning boulder lead to a long reach and an awkward mantel.",
+       "photo": null
+      },
+      {
+       "number": "15",
+       "name": "The Lip",
+       "grade": "6a",
+       "traverse": true,
+       "description": "Traverse a waist-high lip left to right, finishing with a mantel. About 25m right of the noses.",
+       "photo": null
+      },
+      {
+       "number": "16",
+       "name": "Broken Lip",
+       "grade": "6a",
+       "traverse": true,
+       "description": "A shorter lip 12m right of The Lip, from the left end of the roof rightwards to a mantel.",
+       "photo": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "north",
+   "name": "Shaftoe North",
+   "description": "Quiet west-facing problems near Middleton Bank Top Farm. Arête Land is the busiest spot; the Pudding Stone and North Buttress are further north.",
+   "boulders": [
+    {
+     "id": "pudding-stone",
+     "name": "The Pudding Stone",
+     "lat": 55.143387,
+     "lon": -1.917622,
+     "positionEstimated": true,
+     "size": [
+      9,
+      6
+     ],
+     "rotation": 20,
+     "description": "Second-to-last boulder in a group at the far north end of the escarpment, with a crack on its left side.",
+     "problems": [
+      {
+       "number": "1",
+       "name": "",
+       "grade": "4+",
+       "description": "Right-hand line up the crack.",
+       "photo": null
+      },
+      {
+       "number": "2",
+       "name": "",
+       "grade": "5",
+       "description": "Left-hand line up the crack.",
+       "photo": null
+      },
+      {
+       "number": "3",
+       "name": "",
+       "grade": "6c",
+       "sitStart": true,
+       "description": "Sit start at the far right end, then climb diagonally leftwards.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "north-buttress",
+     "name": "North Buttress",
+     "lat": 55.143135,
+     "lon": -1.917747,
+     "positionEstimated": true,
+     "size": [
+      16,
+      7
+     ],
+     "rotation": 20,
+     "description": "Small crag at the north end of the escarpment, 25m south of the Pudding Stone.",
+     "problems": [
+      {
+       "number": "4",
+       "name": "Short Wall",
+       "grade": "4",
+       "description": "The short wall.",
+       "photo": null
+      },
+      {
+       "number": "5",
+       "name": "Merry Dancers",
+       "grade": "6a",
+       "description": "Wall and left arête.",
+       "photo": null
+      },
+      {
+       "number": "6",
+       "name": "Undercut Arête",
+       "grade": "6b",
+       "description": "The undercut arête.",
+       "photo": null
+      },
+      {
+       "number": "7",
+       "name": "Mini Power",
+       "grade": "6c",
+       "description": "Small crimps on the wall left of the big leaning boulder.",
+       "photo": null
+      },
+      {
+       "number": "8",
+       "name": "Aurora Borealis",
+       "grade": "4",
+       "description": "The arête, without bridging.",
+       "photo": null
+      },
+      {
+       "number": "9",
+       "name": "Northern Frights",
+       "grade": "5+",
+       "description": "The wall, getting harder as you go.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "arete-land",
+     "name": "Arête Land (Hallions Rocks)",
+     "lat": 55.141321,
+     "lon": -1.919774,
+     "positionEstimated": true,
+     "size": [
+      22,
+      10
+     ],
+     "rotation": 15,
+     "description": "Small outcrop with an off-width crack in the middle and an overhanging arête at the right end. Marked as Hallions Rocks on OS maps. The most popular spot in Shaftoe North.",
+     "problems": [
+      {
+       "number": "10",
+       "name": "",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start on the left arête, mantel to finish.",
+       "photo": null
+      },
+      {
+       "number": "11",
+       "name": "Piano",
+       "grade": "7b",
+       "sitStart": true,
+       "description": "Sit start at the left arête, follow the overlap rightwards on undercuts to the right arête, then up to the break.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "12",
+       "name": "Fingers",
+       "grade": "7a",
+       "traverse": true,
+       "description": "Low traverse beneath Piano, from the left arête.",
+       "photo": null
+      },
+      {
+       "number": "13",
+       "name": "The Long Reach",
+       "grade": "6a",
+       "description": "From the middle of the wall, use the undercling to reach the top. Sit start is 7b.",
+       "photo": null
+      },
+      {
+       "number": "14",
+       "name": "Slapper",
+       "grade": "7a",
+       "sitStart": true,
+       "description": "Left side of the arête from a sit start, right hand on the arête.",
+       "photo": null
+      },
+      {
+       "number": "15",
+       "name": "Clamper",
+       "grade": "7a+",
+       "sitStart": true,
+       "description": "The arête with both hands on it; feet anywhere except the right wall.",
+       "photo": null
+      },
+      {
+       "number": "16",
+       "name": "Corner Crack",
+       "grade": "4+",
+       "description": "Layback or jam the crack and carry on up the arête.",
+       "photo": null
+      },
+      {
+       "number": "17",
+       "name": "",
+       "grade": "6a+",
+       "traverse": true,
+       "description": "From the crack, go right under the bulge and round the right arête, finishing up 24.",
+       "photo": null
+      },
+      {
+       "number": "18",
+       "name": "",
+       "grade": "5",
+       "description": "Middle of the wall, finishing by the left arête or direct.",
+       "photo": null
+      },
+      {
+       "number": "19",
+       "name": "",
+       "grade": "5+",
+       "description": "Slopers left of the arête to an undercut, then straight up.",
+       "photo": null
+      },
+      {
+       "number": "20",
+       "name": "Classic Arête",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "The arête from a sit start.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "21",
+       "name": "",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start right of the arête, reach a pocket at 2m and top out via the rounded break.",
+       "photo": null
+      },
+      {
+       "number": "22",
+       "name": "",
+       "grade": "5+",
+       "description": "As for 21 but use the smaller pocket to the right and top out a bit further right.",
+       "photo": null
+      },
+      {
+       "number": "23",
+       "name": "",
+       "grade": "6a+",
+       "description": "From mid-wall, use a layaway to reach the top.",
+       "photo": null
+      },
+      {
+       "number": "24",
+       "name": "",
+       "grade": "5+",
+       "description": "Start as 23, then up and right to a pocket and a crimp in the break.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "six-pack",
+     "name": "Six Pack",
+     "lat": 55.140979,
+     "lon": -1.919837,
+     "positionEstimated": true,
+     "size": [
+      9,
+      5
+     ],
+     "rotation": 15,
+     "description": "Heavily undercut shelf with a short crack just to its right.",
+     "problems": [
+      {
+       "number": "25",
+       "name": "Six Pack Circuit",
+       "grade": "6b",
+       "traverse": true,
+       "description": "From the left end traverse right to the right arête, gain the lip and follow it back left.",
+       "photo": null
+      },
+      {
+       "number": "26",
+       "name": "Lip Trip",
+       "grade": "6a+",
+       "traverse": true,
+       "description": "Traverse the lip from either end to a mantel at its widest point.",
+       "photo": null
+      },
+      {
+       "number": "27",
+       "name": "Alexis",
+       "grade": "6b+",
+       "sitStart": true,
+       "description": "Sit start under the shelf near its left end, crimp up, then a long move right to a sloping crimp and mantel.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "punishment-block",
+     "name": "Punishment Block",
+     "lat": 55.140638,
+     "lon": -1.919916,
+     "positionEstimated": true,
+     "size": [
+      12,
+      7
+     ],
+     "rotation": 10,
+     "description": "Whale-shaped boulder with a big fallen block under its roof. The slab on the north side has the first three problems.",
+     "problems": [
+      {
+       "number": "28",
+       "name": "Green Line",
+       "grade": "4+",
+       "description": "The obvious groove on the left. The boulder behind is off limits.",
+       "photo": null
+      },
+      {
+       "number": "29",
+       "name": "",
+       "grade": "4",
+       "description": "Straight up past pockets on the left.",
+       "photo": null
+      },
+      {
+       "number": "30",
+       "name": "",
+       "grade": "4",
+       "description": "Right-hand pockets, then move right to finish.",
+       "photo": null
+      },
+      {
+       "number": "31",
+       "name": "",
+       "grade": "7b",
+       "traverse": true,
+       "description": "Traverse left to right to the middle, mantel at the holes.",
+       "photo": null
+      },
+      {
+       "number": "32",
+       "name": "",
+       "grade": "5+",
+       "traverse": true,
+       "description": "Follow pockets along the back wall with feet on the back wall.",
+       "photo": null
+      },
+      {
+       "number": "33",
+       "name": "",
+       "grade": "7a",
+       "traverse": true,
+       "description": "Right to left to the middle, then mantel.",
+       "photo": null
+      },
+      {
+       "number": "34",
+       "name": "",
+       "grade": "6c",
+       "description": "Mantel over the lip.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "dolphin",
+     "name": "Dolphin",
+     "lat": 55.140333,
+     "lon": -1.919963,
+     "positionEstimated": true,
+     "size": [
+      10,
+      5
+     ],
+     "rotation": 10,
+     "description": "Boulder just south of the Punishment Block.",
+     "problems": [
+      {
+       "number": "35",
+       "name": "",
+       "grade": "?",
+       "traverse": true,
+       "description": "From the left end, traverse and mantel.",
+       "photo": null,
+       "check": "Name and grade hidden in the shadow"
+      },
+      {
+       "number": "36",
+       "name": "",
+       "grade": "?",
+       "description": "Starts from the right-hand hole.",
+       "photo": null,
+       "check": "Name and grade hidden in the shadow"
+      },
+      {
+       "number": "37",
+       "name": "",
+       "grade": "?",
+       "traverse": true,
+       "description": "From the gully on the right, traverse left to the nose and finish as for 35.",
+       "photo": null,
+       "check": "Name and grade hidden in the shadow"
+      }
+     ]
+    },
+    {
+     "id": "inclined-slab",
+     "name": "The Inclined Slab",
+     "lat": 55.140135,
+     "lon": -1.919759,
+     "positionEstimated": true,
+     "size": [
+      5,
+      8
+     ],
+     "rotation": -20,
+     "description": "A tilted slab resting on two other boulders.",
+     "problems": [
+      {
+       "number": "38",
+       "name": "",
+       "grade": "?",
+       "description": "Left side of the slab.",
+       "photo": null,
+       "check": "Name and grade hidden in the shadow"
+      }
+     ]
+    },
+    {
+     "id": "grindstone",
+     "name": "The Grindstone",
+     "lat": 55.139955,
+     "lon": -1.920057,
+     "positionEstimated": true,
+     "size": [
+      9,
+      8
+     ],
+     "rotation": 0,
+     "description": "Dome-topped boulder with a 2m roof and two smaller boulders under it. Two easy warm-ups go either side of the arête to its right.",
+     "problems": [
+      {
+       "number": "39",
+       "name": "",
+       "grade": "7a",
+       "traverse": true,
+       "description": "From the left, traverse to the nose and mantel.",
+       "photo": null
+      },
+      {
+       "number": "40",
+       "name": "",
+       "grade": "6c",
+       "traverse": true,
+       "description": "From the right, traverse to the nose and mantel.",
+       "photo": null
+      },
+      {
+       "number": "41",
+       "name": "",
+       "grade": "7a",
+       "traverse": true,
+       "description": "Girdle the whole boulder in either direction.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "jubilee-boulder",
+     "name": "Jubilee Boulder",
+     "lat": 55.139273,
+     "lon": -1.920167,
+     "positionEstimated": true,
+     "size": [
+      12,
+      6
+     ],
+     "rotation": 10,
+     "description": "75m further south, just north-west of the Jubilee Stone on top of the escarpment. Grassy on top at the left end, with a nose over a 2m roof on the right.",
+     "problems": [
+      {
+       "number": "42",
+       "name": "Jubilee Traverse",
+       "grade": "6c+",
+       "sitStart": true,
+       "traverse": true,
+       "description": "Sit start on good holds at the left end, gain the lip and heel-hook along it, round the nose to a jug and mantel.",
+       "photo": null,
+       "popular": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "central",
+   "name": "Central Area",
+   "description": "Interesting, slightly esoteric boulders around Salter's Nick. Many face south and are best in winter.",
+   "boulders": [
+    {
+     "id": "salters-nick",
+     "name": "Salter's Nick",
+     "lat": 55.13735,
+     "lon": -1.918124,
+     "positionEstimated": true,
+     "size": [
+      24,
+      10
+     ],
+     "rotation": 30,
+     "description": "The big rock outcrop at the west end of the escarpment. The first problem is on the right of the wide track in the small gorge, where the rock turns undercut.",
+     "problems": [
+      {
+       "number": "1",
+       "name": "In the Nick",
+       "grade": "6a+",
+       "traverse": true,
+       "description": "From the far left of the ledge, hand traverse right round the arête and up to the break.",
+       "photo": null
+      },
+      {
+       "number": "2",
+       "name": "Sharp Arête",
+       "grade": "6a",
+       "description": "Left side of the sharp arête, beside a small alcove.",
+       "photo": null
+      },
+      {
+       "number": "3",
+       "name": "Crack and Roof",
+       "grade": "6b",
+       "description": "Crack through the roof to a tricky mantel. Poor landing.",
+       "photo": null
+      },
+      {
+       "number": "4",
+       "name": "Salt n Pepper",
+       "grade": "5+",
+       "description": "Undercut blunt arête, climbable either side. The right side is harder, 6a.",
+       "photo": null
+      },
+      {
+       "number": "5",
+       "name": "'S' Crack",
+       "grade": "4",
+       "description": "S-shaped crack to a juggy top.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "snail-boulder",
+     "name": "Snail Boulder",
+     "lat": 55.137117,
+     "lon": -1.918407,
+     "positionEstimated": true,
+     "size": [
+      3,
+      3
+     ],
+     "rotation": 0,
+     "description": "Tiny boulder below Salter's Nick.",
+     "problems": [
+      {
+       "number": "5a",
+       "name": "Snail Boulder",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start bottom right, climb to top left staying under the lip until the end.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "salters-nick-boulder",
+     "name": "Salter's Nick Boulder",
+     "lat": 55.137009,
+     "lon": -1.917967,
+     "positionEstimated": true,
+     "size": [
+      16,
+      7
+     ],
+     "rotation": 10,
+     "description": "Long boulder south of Salter's Nick.",
+     "problems": [
+      {
+       "number": "6",
+       "name": "Central Traverse",
+       "grade": "6c",
+       "traverse": true,
+       "description": "Feet on the boulder at the left end, traverse right to big holds.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "7",
+       "name": "Right-hand Traverse",
+       "grade": "5+",
+       "traverse": true,
+       "description": "Lip of the right-hand block, left to right.",
+       "photo": null
+      },
+      {
+       "number": "8",
+       "name": "Combined Traverse",
+       "grade": "7a",
+       "traverse": true,
+       "description": "6 and 7 linked. Can also start at the far left end.",
+       "photo": null
+      },
+      {
+       "number": "9",
+       "name": "",
+       "grade": "6c",
+       "sitStart": true,
+       "description": "Sit start, use the hold at the top of the faint flake to reach the lip, mantel using quartz holds or slopers.",
+       "photo": null
+      },
+      {
+       "number": "10",
+       "name": "",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start on a tiny undercut and a nodule, slap for the big hole and mantel.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "small-boulder",
+     "name": "Small Boulder",
+     "lat": 55.137081,
+     "lon": -1.917653,
+     "positionEstimated": true,
+     "size": [
+      4,
+      3
+     ],
+     "rotation": 0,
+     "description": "Small boulder east of Salter's Nick Boulder.",
+     "problems": [
+      {
+       "number": "11",
+       "name": "Small Boulder",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start, bottom right to top left.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "syco-sheep",
+     "name": "Syco Sheep Wall",
+     "lat": 55.137206,
+     "lon": -1.917496,
+     "positionEstimated": true,
+     "size": [
+      6,
+      4
+     ],
+     "rotation": 0,
+     "description": "Wall with a bottomless arête.",
+     "problems": [
+      {
+       "number": "12",
+       "name": "Syco Sheep",
+       "grade": "6c",
+       "highball": true,
+       "description": "Below the bottomless arête, up under the roof, out left to a sloper and up the arête and fluting. Highball, a spotter is essential.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "13",
+       "name": "Full Nettle Jacket",
+       "grade": "5+",
+       "description": "Right side of the arête. 4+ if you use the small ledge with the sapling.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "finger-bowl",
+     "name": "Finger Bowl Boulders",
+     "lat": 55.137153,
+     "lon": -1.917213,
+     "positionEstimated": true,
+     "size": [
+      8,
+      4
+     ],
+     "rotation": 0,
+     "description": "A few metres right of Syco Sheep Wall.",
+     "problems": [
+      {
+       "number": "14",
+       "name": "Finger Bowl",
+       "grade": "4",
+       "description": "Blunt left arête.",
+       "photo": null
+      },
+      {
+       "number": "15",
+       "name": "Chicken Ed",
+       "grade": "4+",
+       "description": "Front face left of the deep crack, using the crack and the chicken-head hold.",
+       "photo": null
+      },
+      {
+       "number": "16",
+       "name": "The Crucifier",
+       "grade": "5+",
+       "description": "From under the arête on its right side, use the pothole and arête.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "lost-arrowhead-lower",
+     "name": "Lost Arrowhead Lower Boulder",
+     "lat": 55.13726,
+     "lon": -1.916679,
+     "positionEstimated": true,
+     "size": [
+      10,
+      5
+     ],
+     "rotation": 5,
+     "description": "The lower of two popular caves just along the escarpment from Salter's Nick.",
+     "problems": [
+      {
+       "number": "17",
+       "name": "",
+       "grade": "4+",
+       "sitStart": true,
+       "description": "Sit start at the flake on the left, gain the lip, mantel and finish up the slab.",
+       "photo": null
+      },
+      {
+       "number": "18",
+       "name": "",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start in the middle of the cave, go up and right to the lip and the easy slab.",
+       "photo": null
+      },
+      {
+       "number": "19",
+       "name": "",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start at the right end, good hold then up and left to a flat hold.",
+       "photo": null
+      },
+      {
+       "number": "20",
+       "name": "The Temporary Neb",
+       "grade": "5",
+       "sitStart": true,
+       "traverse": true,
+       "description": "Lip traverse from a sit start left of 17, ending with a frantic mantel right of 18.",
+       "photo": null
+      },
+      {
+       "number": "20a",
+       "name": "",
+       "grade": "6a+",
+       "traverse": true,
+       "description": "Low traverse left to right.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "lost-arrowhead-cave",
+     "name": "Lost Arrowhead Cave",
+     "lat": 55.137422,
+     "lon": -1.916333,
+     "positionEstimated": true,
+     "size": [
+      12,
+      6
+     ],
+     "rotation": 5,
+     "description": "The upper cave.",
+     "problems": [
+      {
+       "number": "21",
+       "name": "Lost Slab",
+       "grade": "4",
+       "description": "Short slab left of the groove.",
+       "photo": null
+      },
+      {
+       "number": "22",
+       "name": "Lost Groove",
+       "grade": "4",
+       "description": "Groove at the left end.",
+       "photo": null
+      },
+      {
+       "number": "23",
+       "name": "Axe Head",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "Sit start under the undercut nose, up to the break and the slab above.",
+       "photo": null
+      },
+      {
+       "number": "24",
+       "name": "Stone Age Man",
+       "grade": "7a+",
+       "description": "From the back of the cave on a flatty and a layaway, cross the roof to potholes by the lip and wrestle onto the slab.",
+       "photo": null
+      },
+      {
+       "number": "25",
+       "name": "Lost Arrowhead",
+       "grade": "6c",
+       "description": "From the back of the cave as for 24, up and right to the niche and the hanging arête.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "26",
+       "name": "Broken Arrow",
+       "grade": "7c",
+       "sitStart": true,
+       "traverse": true,
+       "description": "Sit start under 23, low traverse right to the start of 24. Linked into Stone Age Man it is 7c+.",
+       "photo": null
+      },
+      {
+       "number": "27",
+       "name": "Neolithic Man",
+       "grade": "6b",
+       "traverse": true,
+       "description": "From the right side of the cave under the heather, traverse the back to the break on the left, round the nose and up the slab as 22.",
+       "photo": null
+      },
+      {
+       "number": "28",
+       "name": "Cave Dweller",
+       "grade": "7a+",
+       "traverse": true,
+       "description": "Classic left-to-right lip traverse: up Axe Head to the break, along the lip, finish up Lost Arrowhead.",
+       "photo": null,
+       "popular": true
+      }
+     ]
+    },
+    {
+     "id": "crucifix",
+     "name": "Crucifix Boulder",
+     "lat": 55.137386,
+     "lon": -1.91539,
+     "positionEstimated": true,
+     "size": [
+      12,
+      5
+     ],
+     "rotation": 0,
+     "description": "On the edge of the northern escarpment behind a big oak tree.",
+     "problems": [
+      {
+       "number": "29",
+       "name": "Christmas Time",
+       "grade": "4",
+       "description": "Left of the main boulder: faint arête past two breaks to a good hold and an awkward mantel.",
+       "photo": null
+      },
+      {
+       "number": "30",
+       "name": "",
+       "grade": "6a",
+       "description": "Arête at the left end of the boulder.",
+       "photo": null,
+       "check": "Name hidden and grade only partly visible (looks like 6a)"
+      },
+      {
+       "number": "31",
+       "name": "",
+       "grade": "6a",
+       "description": "Middle of the wall, avoiding the crack.",
+       "photo": null,
+       "check": "Name hidden and grade only partly visible (looks like 6a)"
+      },
+      {
+       "number": "32",
+       "name": "Crucifix Crack",
+       "grade": "5",
+       "description": "The crack.",
+       "photo": null
+      },
+      {
+       "number": "33",
+       "name": "",
+       "grade": "?",
+       "description": "Two-finger pocket then up right of Crucifix Crack.",
+       "photo": null,
+       "check": "Name and grade hidden in the shadow"
+      },
+      {
+       "number": "34",
+       "name": "",
+       "grade": "?",
+       "traverse": true,
+       "description": "From the left arête, traverse right to the crack and the break.",
+       "photo": null,
+       "check": "Name hidden; grade ends in 'c'"
+      }
+     ]
+    },
+    {
+     "id": "oyster-rock",
+     "name": "Oyster Rock (Wall Boulder)",
+     "lat": 55.13726,
+     "lon": -1.914321,
+     "positionEstimated": true,
+     "size": [
+      8,
+      5
+     ],
+     "rotation": 0,
+     "description": "Boulder cut through by the wall, halfway up the north side of the valley, across the track from Crucifix Boulder.",
+     "problems": [
+      {
+       "number": "35",
+       "name": "Oyster Traverse",
+       "grade": "6a",
+       "traverse": true,
+       "description": "Lip traverse from the right, finishing on the wall.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "boulder-in-the-woods",
+     "name": "Boulder in the Woods",
+     "lat": 55.136847,
+     "lon": -1.913064,
+     "positionEstimated": true,
+     "size": [
+      6,
+      4
+     ],
+     "rotation": 0,
+     "description": "Well hidden in the woods and often damp, but a good problem.",
+     "problems": [
+      {
+       "number": "36",
+       "name": "",
+       "grade": "7a",
+       "traverse": true,
+       "description": "Right of a short chimney, low left-to-right traverse across the central groove (the crux), round the arête past the tree.",
+       "photo": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "western",
+   "name": "Western Edges",
+   "description": "Near Shaftoe Grange Farm, home to many of the most popular boulders: Font, Smith's Rocks, Turtle Rock and the Neb.",
+   "boulders": [
+    {
+     "id": "font-boulder",
+     "name": "Font Boulder",
+     "lat": 55.136578,
+     "lon": -1.922807,
+     "positionEstimated": true,
+     "size": [
+      14,
+      8
+     ],
+     "rotation": 10,
+     "description": "Always clean and well chalked. The shelf is out of bounds for every traverse.",
+     "problems": [
+      {
+       "number": "1",
+       "name": "Mustard",
+       "grade": "6a+",
+       "description": "Up to the crack, then finger locks and jams.",
+       "photo": null,
+       "check": "Start of name cut off by the page fold"
+      },
+      {
+       "number": "2",
+       "name": "…ly Belter",
+       "grade": "8a",
+       "description": "Hard bulge right of the crack. If it feels easy you are too far right.",
+       "photo": null,
+       "check": "Start of name cut off by the page fold"
+      },
+      {
+       "number": "3",
+       "name": "Surprising Solution",
+       "grade": "7a",
+       "description": "Easier bulge 2m right of the crack.",
+       "photo": null,
+       "check": "Start of name cut off by the page fold"
+      },
+      {
+       "number": "4",
+       "name": "Incipient Crack",
+       "grade": "6a",
+       "description": "Hanging crack from standing. Sit start from the pedestal left of the lower hairline crack is 7a.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "5",
+       "name": "",
+       "grade": "?",
+       "description": "Wall right of Incipient Crack from standing. Sit start at the knee-height pocket, up and left to the break, is 6b.",
+       "photo": null,
+       "check": "Name and standing grade hidden"
+      },
+      {
+       "number": "6",
+       "name": "Short Crack",
+       "grade": "4+",
+       "description": "The crack using hands only.",
+       "photo": null,
+       "check": "Start of name cut off by the page fold"
+      },
+      {
+       "number": "7",
+       "name": "The Prow",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "The prow from a sit start.",
+       "photo": null,
+       "check": "Start of name cut off by the page fold"
+      },
+      {
+       "number": "8",
+       "name": "Cuvier",
+       "grade": "6a",
+       "description": "From the break under the roof at the right end, gain holds above the lip and mantel. No bridging.",
+       "photo": null,
+       "check": "Start of name cut off by the page fold"
+      },
+      {
+       "number": "9",
+       "name": "…al Prow",
+       "grade": "4+",
+       "description": "Arête just right of the crack.",
+       "photo": null,
+       "check": "Start of name cut off by the page fold"
+      },
+      {
+       "number": "10",
+       "name": "Gnarly Start",
+       "grade": "7a",
+       "traverse": true,
+       "description": "Rarely repeated traverse from the far left, hands under the top, to the crack, then as 11 and reverse 12.",
+       "photo": null
+      },
+      {
+       "number": "11",
+       "name": "Font Traverse",
+       "grade": "6c",
+       "traverse": true,
+       "description": "Start as 1, traverse to finish up Incipient Crack. A Shaftoe classic. Keeping hands below the break is 7a+.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "12",
+       "name": "Reverse Traverse",
+       "grade": "6b",
+       "traverse": true,
+       "description": "From just left of Cuvier traverse left to finish up Incipient Crack. 11 then 12 reversed is the Classic Link, 6c+.",
+       "photo": null
+      },
+      {
+       "number": "13",
+       "name": "Top Traverse",
+       "grade": "6a",
+       "traverse": true,
+       "description": "Hand traverse the top past the crack to the heather ledge.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "the-business",
+     "name": "The Business",
+     "lat": 55.136452,
+     "lon": -1.9221,
+     "positionEstimated": true,
+     "size": [
+      9,
+      5
+     ],
+     "rotation": 0,
+     "description": "Barrel-shaped flat-topped boulder about 50m up the valley from Font Boulder.",
+     "problems": [
+      {
+       "number": "14",
+       "name": "",
+       "grade": "7a",
+       "sitStart": true,
+       "traverse": true,
+       "description": "Sit start left, traverse low and right to a big pocket, gain the lip and go right to a mantel.",
+       "photo": null
+      },
+      {
+       "number": "15",
+       "name": "",
+       "grade": "7a",
+       "traverse": true,
+       "description": "From a round layaway at the right end, feet on the boulder, traverse left to the pocket and mantel over the nose.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "mini-obelisk",
+     "name": "Mini Obelisk",
+     "lat": 55.136254,
+     "lon": -1.921896,
+     "positionEstimated": true,
+     "size": [
+      4,
+      4
+     ],
+     "rotation": 45,
+     "description": "Pyramid-shaped boulder opposite The Business.",
+     "problems": [
+      {
+       "number": "23",
+       "name": "Cliff's Slab",
+       "grade": "4",
+       "description": "Middle of the slab.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "astro",
+     "name": "Astro",
+     "lat": 55.136236,
+     "lon": -1.922257,
+     "positionEstimated": true,
+     "size": [
+      6,
+      4
+     ],
+     "rotation": 0,
+     "description": "First boulder on the right side of the valley up from Font, topped with turf.",
+     "problems": [
+      {
+       "number": "24",
+       "name": "Astro Traverse",
+       "grade": "7a",
+       "traverse": true,
+       "description": "Lip traverse left to right with feet on the back.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "stolen-from-ivor",
+     "name": "Stolen from Ivor",
+     "lat": 55.136308,
+     "lon": -1.921236,
+     "positionEstimated": true,
+     "size": [
+      10,
+      6
+     ],
+     "rotation": 0,
+     "description": "Flat-topped boulder with a notch in the middle, about 100m from Font.",
+     "problems": [
+      {
+       "number": "16",
+       "name": "Groove One",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start under the roof, reach crimps and top out.",
+       "photo": null
+      },
+      {
+       "number": "17",
+       "name": "Groove Two",
+       "grade": "5+",
+       "description": "Hanging start on the lower holds, then to the top.",
+       "photo": null
+      },
+      {
+       "number": "18",
+       "name": "Groove Three",
+       "grade": "5+",
+       "description": "Hanging start, then to the top.",
+       "photo": null
+      },
+      {
+       "number": "19",
+       "name": "Top Traverse",
+       "grade": "6c",
+       "traverse": true,
+       "description": "From the left corner, traverse right along the lip.",
+       "photo": null
+      },
+      {
+       "number": "20",
+       "name": "Starting Something",
+       "grade": "6c",
+       "traverse": true,
+       "description": "From the left corner, traverse right under the lip and finish up 16.",
+       "photo": null
+      },
+      {
+       "number": "21",
+       "name": "Stolen from Ivor",
+       "grade": "6c",
+       "traverse": true,
+       "description": "From the hanging groove (16), crimp right under the lip to the end.",
+       "photo": null
+      },
+      {
+       "number": "22",
+       "name": "Stealing it Back",
+       "grade": "7a+",
+       "traverse": true,
+       "description": "Problem 20 into problem 21 to the end.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "hair-lip",
+     "name": "Hair Lip",
+     "lat": 55.135913,
+     "lon": -1.921582,
+     "positionEstimated": true,
+     "size": [
+      8,
+      4
+     ],
+     "rotation": 0,
+     "description": "Flat-topped boulder set into the hillside 100m east of Smith's Rocks, with a crack near the middle.",
+     "problems": [
+      {
+       "number": "25",
+       "name": "Hair Lip Traverse",
+       "grade": "6a",
+       "traverse": true,
+       "description": "Lip leftwards to the crack, rest, then across the wall. Feet above the lip.",
+       "photo": null
+      },
+      {
+       "number": "26",
+       "name": "",
+       "grade": "5+",
+       "traverse": true,
+       "description": "Same traverse with feet on the back wall.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "smiths-rocks",
+     "name": "Smith's Rocks",
+     "lat": 55.135886,
+     "lon": -1.923153,
+     "positionEstimated": true,
+     "size": [
+      24,
+      7
+     ],
+     "rotation": -5,
+     "description": "A ridge of boulders running west to east, 20m north of Turtle Rock.",
+     "problems": [
+      {
+       "number": "27",
+       "name": "Smith's Rocks Traverse",
+       "grade": "7a",
+       "traverse": true,
+       "description": "Excellent. From the right end, go left under the lip to the arch, across the scooped wall low, then over a big gap to the last boulder.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "28",
+       "name": "The Lip",
+       "grade": "7a",
+       "traverse": true,
+       "description": "From the hand jam, traverse the lip above the scooped wall.",
+       "photo": null
+      },
+      {
+       "number": "29",
+       "name": "The Scoop",
+       "grade": "6b",
+       "sitStart": true,
+       "description": "The scooped wall from a sit start.",
+       "photo": null
+      },
+      {
+       "number": "30",
+       "name": "The Mask",
+       "grade": "6c+",
+       "sitStart": true,
+       "description": "Pinch up the arête from a sit start.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "31",
+       "name": "The Crack",
+       "grade": "4",
+       "description": "The easy crack.",
+       "photo": null
+      },
+      {
+       "number": "31a",
+       "name": "Milk and Cookies",
+       "grade": "6a+",
+       "sitStart": true,
+       "description": "The slab from a sit start.",
+       "photo": null
+      },
+      {
+       "number": "31b",
+       "name": "Knee Cracker",
+       "grade": "6a+",
+       "description": "The small block, from the pocket on the left.",
+       "photo": null
+      },
+      {
+       "number": "32",
+       "name": "The Bunker",
+       "grade": "6b",
+       "sitStart": true,
+       "description": "In the gully behind the arête: undercut to a pocket at 3m and top out.",
+       "photo": null
+      },
+      {
+       "number": "33",
+       "name": "The Edge",
+       "grade": "6a",
+       "description": "Left arête of The Bunker.",
+       "photo": null
+      },
+      {
+       "number": "34",
+       "name": "Weasels Ripped my Flesh",
+       "grade": "6c",
+       "description": "Good hold, long move left to the lip and a small pocket, round the overhang onto the face.",
+       "photo": null,
+       "check": "First letter of name cut off"
+      },
+      {
+       "number": "35",
+       "name": "Classic Arête",
+       "grade": "4",
+       "description": "Well-shaped arête. Sit start is 6b with an awkward pull round.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "36",
+       "name": "…amp",
+       "grade": "5+",
+       "description": "Left pinnacle from a crouch.",
+       "photo": null,
+       "check": "Start of name cut off, could be Ramp or Damp"
+      },
+      {
+       "number": "37",
+       "name": "City of Sand",
+       "grade": "6b",
+       "description": "Right pinnacle, carefully.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "38",
+       "name": "",
+       "grade": "?",
+       "traverse": true,
+       "description": "Left side of the undercut slab and crack, along slopers to finish up the arête.",
+       "photo": null,
+       "check": "Name hidden; grade ends in 'c'"
+      },
+      {
+       "number": "39",
+       "name": "Pebble Slab",
+       "grade": "6c",
+       "description": "Straight up the middle of the slab.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "40",
+       "name": "Proposal",
+       "grade": "6c",
+       "description": "Lie-down start under the prow, feet on the thin plate, pinch out. Using the good edges low down is a desperate 7c.",
+       "photo": null,
+       "check": "Start of name cut off"
+      }
+     ]
+    },
+    {
+     "id": "turtle-rock",
+     "name": "Turtle Rock",
+     "lat": 55.135625,
+     "lon": -1.923247,
+     "positionEstimated": true,
+     "size": [
+      14,
+      8
+     ],
+     "rotation": 0,
+     "description": "The huge neb on the western edge of Shaftoe. The SW face also has a route, Galapagos Turtle (E5).",
+     "problems": [
+      {
+       "number": "41",
+       "name": "Turtle's Flipper Left-Hand",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start up to the horizontal break, then up and left to good holds.",
+       "photo": null
+      },
+      {
+       "number": "42",
+       "name": "Turtle's Flipper Right-Hand",
+       "grade": "5",
+       "description": "As 41, then out right from the break to an awkward top out.",
+       "photo": null
+      },
+      {
+       "number": "43",
+       "name": "",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "Sit start under the roof, up and left under it to good holds, hard mantel onto the ledge and slab.",
+       "photo": null
+      },
+      {
+       "number": "44",
+       "name": "Underbelly",
+       "grade": "5",
+       "traverse": true,
+       "description": "Follow the horizontal break under the turtle left to right and back.",
+       "photo": null
+      },
+      {
+       "number": "45",
+       "name": "Boody Gold",
+       "grade": "6c",
+       "jumpStart": true,
+       "description": "Jump for two lip holds, move left to the boss and rock over back right.",
+       "photo": null
+      },
+      {
+       "number": "46",
+       "name": "Blood Sport",
+       "grade": "8b",
+       "description": "From the back wall, power across the roof to the hole at the lip, then the break, then the lip. The most sought-after line here.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "47",
+       "name": "Soft Centre",
+       "grade": "6a",
+       "description": "Reach the break, gain the lip, go right to a boss and mantel.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "48",
+       "name": "The Boss",
+       "grade": "7b",
+       "jumpStart": true,
+       "description": "Jump to slots 0.5m right of Soft Centre, high foot, small edge, slap for the top.",
+       "photo": null
+      },
+      {
+       "number": "49",
+       "name": "Hard Shell",
+       "grade": "6c",
+       "description": "Overhanging wall bridging across the groove, no hands on the right wall.",
+       "photo": null
+      },
+      {
+       "number": "50",
+       "name": "Darkness Beckons",
+       "grade": "6a",
+       "description": "Wall just right of the overhanging groove.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "neb-boulder",
+     "name": "Neb Boulder",
+     "lat": 55.135374,
+     "lon": -1.923153,
+     "positionEstimated": true,
+     "size": [
+      14,
+      7
+     ],
+     "rotation": 0,
+     "description": "The smaller neb, 8m south of Turtle Rock. Probably the most climbed boulder at Shaftoe.",
+     "problems": [
+      {
+       "number": "51",
+       "name": "Power is Nothing without Control",
+       "grade": "7c",
+       "traverse": true,
+       "description": "From the big hold on the left, traverse the lip of the roof round the nose to a pocket and mantel as 54.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "52",
+       "name": "",
+       "grade": "7b",
+       "sitStart": true,
+       "description": "Sit start on a small ledge at 0.5m, rock over to a small hold and the top.",
+       "photo": null
+      },
+      {
+       "number": "53",
+       "name": "Crease Classic",
+       "grade": "6b",
+       "sitStart": true,
+       "description": "Sit start under the roof, pull out and follow the crease up the middle of the wall.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "54",
+       "name": "Broken Hearts are for Assholes",
+       "grade": "7a+",
+       "sitStart": true,
+       "description": "Sit start, cross the roof left of The Neb Roof.",
+       "photo": null
+      },
+      {
+       "number": "55",
+       "name": "The Neb Roof",
+       "grade": "6c",
+       "sitStart": true,
+       "description": "Sit start at the pedestal at the back, straight out across the roof.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "56",
+       "name": "The Original",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "Sit start under the roof, out to the lip and a flat hold, follow it left to the big pocket and mantel.",
+       "photo": null
+      },
+      {
+       "number": "57",
+       "name": "Perverse Classic",
+       "grade": "6c",
+       "description": "Start as 56, up to the rounded break, left along it to a hand jam and up.",
+       "photo": null
+      },
+      {
+       "number": "58",
+       "name": "",
+       "grade": "6a",
+       "description": "Start as 56, straight up past the flat hold and slopers.",
+       "photo": null
+      },
+      {
+       "number": "59",
+       "name": "",
+       "grade": "5+",
+       "description": "Start as 56, along the break to the next hold then up and left.",
+       "photo": null
+      },
+      {
+       "number": "60",
+       "name": "Sloper Masterclass",
+       "grade": "5+",
+       "description": "Start as 56, then right along the rounded breaks to the top. Lots of variations, all slopers.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "61",
+       "name": "",
+       "grade": "6a",
+       "description": "Start as 56, right along a series of rounded breaks to stand in a big pocket and top out.",
+       "photo": null
+      },
+      {
+       "number": "62",
+       "name": "",
+       "grade": "6b",
+       "sitStart": true,
+       "description": "Sit start at the right end of the roof on the flat hold, straight up.",
+       "photo": null,
+       "check": "Grade partly hidden by glare (looks like 6b)"
+      },
+      {
+       "number": "63",
+       "name": "Aside",
+       "grade": "6b",
+       "sitStart": true,
+       "description": "Sit start in the big pocket, straight up to a mantel.",
+       "photo": null
+      },
+      {
+       "number": "64",
+       "name": "Pure Endurance",
+       "grade": "7a",
+       "sitStart": true,
+       "traverse": true,
+       "description": "From the far right in the big pocket, traverse left along the rounded break past the jam and pocket, mantel on the short west face.",
+       "photo": null
+      },
+      {
+       "number": "65",
+       "name": "Flat Out",
+       "grade": "7a",
+       "sitStart": true,
+       "description": "Sit start as Aside, up to the crease and slopers left to the left arête, hands above the break.",
+       "photo": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "summit",
+   "name": "Shaftoe Summit",
+   "description": "Rocks around the 213m trig point, overlooking Shaftoe Grange Farm to the west and the Central Area to the north.",
+   "boulders": [
+    {
+     "id": "dead-pine",
+     "name": "Dead Pine Buttress",
+     "lat": 55.134781,
+     "lon": -1.919806,
+     "positionEstimated": true,
+     "size": [
+      18,
+      6
+     ],
+     "rotation": -10,
+     "description": "Flat-topped buttress with a full-length roof, split by a chimney, with a dead pine at its right end. The first two problems are on the neb just left of it.",
+     "problems": [
+      {
+       "number": "1",
+       "name": "The Alligator",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start at the back of the roof on the left, climb out and over the nose.",
+       "photo": null
+      },
+      {
+       "number": "2",
+       "name": "The Alligator Right-Hand",
+       "grade": "6b",
+       "description": "Hands and feet on the right side only.",
+       "photo": null
+      },
+      {
+       "number": "3",
+       "name": "Lightning Never Strikes Twice",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start on surprisingly good holds.",
+       "photo": null
+      },
+      {
+       "number": "4",
+       "name": "",
+       "grade": "6b",
+       "description": "Hanging start, feet on the back wall, from the large flake.",
+       "photo": null
+      },
+      {
+       "number": "5",
+       "name": "",
+       "grade": "6b",
+       "description": "Hanging start from the spike.",
+       "photo": null
+      },
+      {
+       "number": "6",
+       "name": "",
+       "grade": "6b",
+       "description": "Hanging start, up the middle of the buttress.",
+       "photo": null
+      },
+      {
+       "number": "7",
+       "name": "",
+       "grade": "6b",
+       "description": "Hanging start from the ledge.",
+       "photo": null
+      },
+      {
+       "number": "8",
+       "name": "",
+       "grade": "6b",
+       "description": "Hanging start from the block.",
+       "photo": null
+      },
+      {
+       "number": "9",
+       "name": "",
+       "grade": "6b",
+       "traverse": true,
+       "description": "From the chimney, traverse the lip right and finish up 8.",
+       "photo": null
+      },
+      {
+       "number": "10",
+       "name": "",
+       "grade": "5+",
+       "traverse": true,
+       "description": "Left to right under the lip. Stays dry in the rain.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "pygmy-rocks",
+     "name": "Pygmy Rocks",
+     "lat": 55.134943,
+     "lon": -1.920843,
+     "positionEstimated": true,
+     "size": [
+      7,
+      5
+     ],
+     "rotation": 0,
+     "description": "Jumble of boulders 20m before Dishpan Alley.",
+     "problems": [
+      {
+       "number": "11",
+       "name": "Pygmy Traverse",
+       "grade": "6a",
+       "sitStart": true,
+       "traverse": true,
+       "description": "Sit start on the left, traverse the lip right round the arête as far as you can, then mantel.",
+       "photo": null
+      },
+      {
+       "number": "12",
+       "name": "",
+       "grade": "6a",
+       "sitStart": true,
+       "traverse": true,
+       "description": "Sit start under the left arête, traverse right to the crack.",
+       "photo": null
+      },
+      {
+       "number": "13",
+       "name": "The Cow",
+       "grade": "6a",
+       "traverse": true,
+       "description": "Right to left along the slot under the top, finishing on the slab via a pocket.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "the-prow-summit",
+     "name": "The Prow",
+     "lat": 55.134835,
+     "lon": -1.921472,
+     "positionEstimated": true,
+     "size": [
+      4,
+      4
+     ],
+     "rotation": 0,
+     "description": "Small, very undercut boulder just left of Dishpan Alley.",
+     "problems": [
+      {
+       "number": "14",
+       "name": "",
+       "grade": "6c",
+       "traverse": true,
+       "description": "Hard traverse of the boulder, left to right.",
+       "photo": null
+      },
+      {
+       "number": "15",
+       "name": "",
+       "grade": "7a",
+       "traverse": true,
+       "description": "Harder traverse, right to left.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "dishpan-alley",
+     "name": "Dishpan Alley",
+     "lat": 55.134781,
+     "lon": -1.921173,
+     "positionEstimated": true,
+     "size": [
+      26,
+      6
+     ],
+     "rotation": -5,
+     "description": "Small escarpment on the south rim of the main valley, with a crack right of centre and an overhanging nose at the right end. A popular warm-up spot.",
+     "problems": [
+      {
+       "number": "16",
+       "name": "East Wall",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start on good holds at the left end of the lip, big lock and mantel.",
+       "photo": null
+      },
+      {
+       "number": "17",
+       "name": "Arête",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "Sit start left of the arête, awkward move up and right.",
+       "photo": null
+      },
+      {
+       "number": "18",
+       "name": "",
+       "grade": "4",
+       "sitStart": true,
+       "description": "Crouching start 2m right of the arête on a lip crimp, up and left.",
+       "photo": null
+      },
+      {
+       "number": "19",
+       "name": "",
+       "grade": "4+",
+       "sitStart": true,
+       "description": "Crouching start under the roof 3m right of the arête, to a pocket or dish, then up.",
+       "photo": null
+      },
+      {
+       "number": "20",
+       "name": "",
+       "grade": "5+",
+       "description": "Wall just left of the crack, avoiding it.",
+       "photo": null
+      },
+      {
+       "number": "21",
+       "name": "",
+       "grade": "5+",
+       "description": "From the undercling under the roof, right side of the crack using the big pocket.",
+       "photo": null
+      },
+      {
+       "number": "22",
+       "name": "",
+       "grade": "?",
+       "description": "0.5m right of the crack using the pocket.",
+       "photo": null,
+       "check": "Name and grade hidden in the shadow"
+      },
+      {
+       "number": "23",
+       "name": "Rising Cramp",
+       "grade": "7a",
+       "traverse": true,
+       "description": "From the crack, right to the hole, wedge into the scoop, then crimp across to the arête.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "24",
+       "name": "Rising Damp",
+       "grade": "6b",
+       "description": "Under the roof, slopers right of the corner and the edge of the ramp, mantel up and right.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "25",
+       "name": "Corner",
+       "grade": "4+",
+       "description": "The corner.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "26",
+       "name": "Mantel Madness",
+       "grade": "6c",
+       "description": "Left of the right arête, good holds over the roof to a sloping ledge and a hard mantel.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "27",
+       "name": "",
+       "grade": "?",
+       "description": "The undercut right arête.",
+       "photo": null,
+       "check": "Name and grade hidden in the shadow"
+      },
+      {
+       "number": "28",
+       "name": "Dishpan Alley Traverse",
+       "grade": "5+",
+       "traverse": true,
+       "description": "From round the corner left of 16, hand traverse past a finger-lock and layback to the right arête.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "west-wall",
+     "name": "West Wall",
+     "lat": 55.134673,
+     "lon": -1.920765,
+     "positionEstimated": true,
+     "size": [
+      8,
+      5
+     ],
+     "rotation": 0,
+     "description": "Short wall at the right end of Dishpan Alley.",
+     "problems": [
+      {
+       "number": "29",
+       "name": "",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start 1m left of the Blunt Nose, up to the break and crimps to good holds.",
+       "photo": null
+      },
+      {
+       "number": "30",
+       "name": "Blunt Nose",
+       "grade": "6a+",
+       "sitStart": true,
+       "description": "Sit start to the break, then just right of the arête to slopers.",
+       "photo": null
+      },
+      {
+       "number": "31",
+       "name": "",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start 1m right on the break, to a second break and the top. Long arms help.",
+       "photo": null
+      },
+      {
+       "number": "32",
+       "name": "",
+       "grade": "4",
+       "description": "From the far right end of the ledge, straight up on good holds.",
+       "photo": null
+      },
+      {
+       "number": "33",
+       "name": "",
+       "grade": "6c",
+       "traverse": true,
+       "description": "From the ledge left of 29, along the half-height break, then back left above the ledge to finish up 29.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "main-buttress",
+     "name": "Main Buttress",
+     "lat": 55.134673,
+     "lon": -1.922352,
+     "positionEstimated": true,
+     "size": [
+      18,
+      7
+     ],
+     "rotation": 0,
+     "description": "Prominent buttress with a 3m roof about 1m off the ground. Lots of good problems, mostly on slopers.",
+     "problems": [
+      {
+       "number": "34",
+       "name": "",
+       "grade": "5+",
+       "description": "Left arête. Sit start is 6a.",
+       "photo": null
+      },
+      {
+       "number": "35",
+       "name": "Viagra",
+       "grade": "6c",
+       "description": "Shallow groove, then left to a good hold on the arête. Sit start is 7b.",
+       "photo": null
+      },
+      {
+       "number": "36",
+       "name": "Viagra Plus",
+       "grade": "6b+",
+       "description": "Rib right of the arête to a good hold. Sit start is 7b.",
+       "photo": null
+      },
+      {
+       "number": "37",
+       "name": "Sloppy Ploppin",
+       "grade": "6c",
+       "description": "Hanging start on slopers right of 36, over the bulge. Sloppy Ploppin SS, from the lip of Vorsprung durch Technik, is 7c+.",
+       "photo": null
+      },
+      {
+       "number": "38",
+       "name": "Central Wall",
+       "grade": "7b+",
+       "description": "Middle of the wall. Starting holds are about 2.4m up, so height helps.",
+       "photo": null
+      },
+      {
+       "number": "38a",
+       "name": "Vorsprung Durch Technik",
+       "grade": "8a",
+       "sitStart": true,
+       "description": "Sit start deep in the cave, use the flake to cross the roof and turn the lip on small holds. A Shaftoe classic.",
+       "photo": null,
+       "popular": true,
+       "check": "Listed in the book without its own number"
+      },
+      {
+       "number": "39",
+       "name": "Main Wall",
+       "grade": "6c",
+       "description": "Scoop right of centre, moving right at the top. Main Wall SS, from the back of the cave across the roof with a one-finger pocket, is 7b+.",
+       "photo": null
+      },
+      {
+       "number": "40",
+       "name": "Timmy Tip Toes",
+       "grade": "7a+",
+       "description": "Right arête, mostly on its right side, from a good flake under the roof.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "41",
+       "name": "",
+       "grade": "7a+",
+       "description": "Faint rib left of the scoop.",
+       "photo": null
+      },
+      {
+       "number": "42",
+       "name": "Magic Fluting",
+       "grade": "5",
+       "description": "Big fluting to a positive hold, saving the hardest move for last.",
+       "photo": null
+      },
+      {
+       "number": "43",
+       "name": "",
+       "grade": "5+",
+       "description": "Wall 1m right of the fluting on small holds.",
+       "photo": null
+      },
+      {
+       "number": "44",
+       "name": "",
+       "grade": "6c",
+       "traverse": true,
+       "description": "From the big flutings on the right, traverse left with feet above the lip, finish up 36.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "fluted-wall",
+     "name": "Fluted Wall",
+     "lat": 55.134583,
+     "lon": -1.9221,
+     "positionEstimated": true,
+     "size": [
+      8,
+      4
+     ],
+     "rotation": 0,
+     "description": "Back wall between Main Buttress and The Cob.",
+     "problems": [
+      {
+       "number": "45",
+       "name": "The Wasp",
+       "grade": "6b+",
+       "description": "Wall trending right at the top. Tricky; the finish is not as well protected as it looks, take care.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "46",
+       "name": "The Sting",
+       "grade": "6a+",
+       "description": "Up the flutings with a tricky move to a good hold.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "47",
+       "name": "Buzzing",
+       "grade": "6c",
+       "description": "Scoop left of the arête. Sit start with a pinch on the arête is 7a.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "FW",
+       "name": "Fluted Wall Traverse",
+       "grade": "6b+",
+       "traverse": true,
+       "description": "Traverse leftwards from 49 past the flutings to 43.",
+       "photo": null,
+       "check": "Number hidden in the shadow"
+      }
+     ]
+    },
+    {
+     "id": "the-cob",
+     "name": "The Cob",
+     "lat": 55.134512,
+     "lon": -1.921896,
+     "positionEstimated": true,
+     "size": [
+      12,
+      8
+     ],
+     "rotation": 0,
+     "description": "Leaf-shaped buttress right of the Fluted Wall. Its back forms one side of Ship's Bait Cabin.",
+     "problems": [
+      {
+       "number": "48",
+       "name": "",
+       "grade": "?",
+       "description": "Right wall of the gully just left of the arête.",
+       "photo": null,
+       "check": "Name hidden; grade ends in '+'"
+      },
+      {
+       "number": "49",
+       "name": "Cob Arête",
+       "grade": "5",
+       "description": "The photogenic arête.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "50",
+       "name": "",
+       "grade": "6a",
+       "description": "Good pockets right of the arête to a hold up and right. Popular.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "51",
+       "name": "Hound Dog",
+       "grade": "7a+",
+       "description": "Two-finger pocket at 3m, reached via an undercut. Often tried, rarely topped.",
+       "photo": null
+      },
+      {
+       "number": "52",
+       "name": "Killer Queen",
+       "grade": "6c",
+       "description": "Undercut flake left of a mono to a poor hold, then a positive one to mantel.",
+       "photo": null
+      },
+      {
+       "number": "53",
+       "name": "Hip Hop",
+       "grade": "6a",
+       "description": "From the right end, use an undercut to reach an obvious pocket at 3m and top out.",
+       "photo": null
+      },
+      {
+       "number": "54",
+       "name": "Korn on the Cob",
+       "grade": "6b",
+       "sitStart": true,
+       "description": "Sit start 1m right of 53 on a side-pull, long reach to a flat hold, right to an edge, onto the slab.",
+       "photo": null
+      },
+      {
+       "number": "55",
+       "name": "Honeycomb Wall Traverse",
+       "grade": "6c",
+       "traverse": true,
+       "description": "Front face of The Cob from the left arête (49) to beyond 54.",
+       "photo": null
+      },
+      {
+       "number": "56",
+       "name": "The Link",
+       "grade": "6a",
+       "traverse": true,
+       "description": "Traverse the west face of The Cob.",
+       "photo": null
+      },
+      {
+       "number": "57",
+       "name": "Bait Boxed",
+       "grade": "7a",
+       "traverse": true,
+       "description": "Full girdle of The Cob, taking in 55, 56 and 61.",
+       "photo": null
+      },
+      {
+       "number": "58",
+       "name": "",
+       "grade": "4",
+       "sitStart": true,
+       "description": "Back of The Cob: sit start to the arête at the left end.",
+       "photo": null
+      },
+      {
+       "number": "59",
+       "name": "",
+       "grade": "4",
+       "sitStart": true,
+       "description": "Sit start under the hanging corner in the middle of the slab.",
+       "photo": null
+      },
+      {
+       "number": "60",
+       "name": "",
+       "grade": "5",
+       "description": "Hanging start to the undercut arête, awkward mantel over the nose.",
+       "photo": null
+      },
+      {
+       "number": "61",
+       "name": "The Thug",
+       "grade": "5+",
+       "traverse": true,
+       "description": "Lip of the roof from 58 to 60.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "galley-wall",
+     "name": "Galley Wall (Ship's Bait Cabin)",
+     "lat": 55.134386,
+     "lon": -1.921833,
+     "positionEstimated": true,
+     "size": [
+      14,
+      4
+     ],
+     "rotation": 0,
+     "description": "Wall facing the back of The Cob, in the small boxed canyon called Ship's Bait Cabin. Many eliminates have been climbed here.",
+     "problems": [
+      {
+       "number": "62",
+       "name": "The Technician",
+       "grade": "5+",
+       "traverse": true,
+       "description": "From left of the corner, traverse the right wall left to right with hands under the top.",
+       "photo": null
+      },
+      {
+       "number": "63",
+       "name": "Port",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start right of the crack, up to a small flake and the top. Avoiding the back wall is the crux.",
+       "photo": null
+      },
+      {
+       "number": "64",
+       "name": "Galley Wall",
+       "grade": "4+",
+       "description": "Middle of the wall to an undercut flake. Sit start with a side-pull and tiny pinch is 6a.",
+       "photo": null
+      },
+      {
+       "number": "64a",
+       "name": "Wolf",
+       "grade": "6b",
+       "sitStart": true,
+       "description": "Sit start, undercut up to two small bumps, then the top.",
+       "photo": null
+      },
+      {
+       "number": "65",
+       "name": "Starboard",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start in the good break on the right of the wall, past two pockets.",
+       "photo": null
+      },
+      {
+       "number": "66",
+       "name": "Bow Wave",
+       "grade": "6a",
+       "description": "Short prow in the corner.",
+       "photo": null
+      },
+      {
+       "number": "67",
+       "name": "Lost Crack",
+       "grade": "5",
+       "description": "Rough crack. Sit start is 5+.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "cow-pat",
+     "name": "Cow Pat Buttress",
+     "lat": 55.134538,
+     "lon": -1.92353,
+     "positionEstimated": true,
+     "size": [
+      8,
+      4
+     ],
+     "rotation": 0,
+     "description": "10m west of and just below The Cob, with a break under the lip. One of three small buttresses above Shaftoe Grange Farm.",
+     "problems": [
+      {
+       "number": "68",
+       "name": "Cow Pat",
+       "grade": "5+",
+       "traverse": true,
+       "description": "From the big ledge on the right, follow the break left, then the lip back right.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "grange-farm",
+     "name": "Grange Farm Buttress",
+     "lat": 55.133919,
+     "lon": -1.924049,
+     "positionEstimated": true,
+     "size": [
+      7,
+      4
+     ],
+     "rotation": 0,
+     "description": "Neglected boulder 20m right of Cow Pat, set into the hillside on the escarpment north-east of Shaftoe Grange Farm.",
+     "problems": [
+      {
+       "number": "69",
+       "name": "",
+       "grade": "4+",
+       "traverse": true,
+       "description": "Lip traverse left to right.",
+       "photo": null
+      },
+      {
+       "number": "70",
+       "name": "",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start, cross the roof at its widest to a mantel.",
+       "photo": null
+      },
+      {
+       "number": "71",
+       "name": "",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start, cross the roof at its narrowest to a mantel.",
+       "photo": null
+      },
+      {
+       "number": "72",
+       "name": "",
+       "grade": "6c",
+       "traverse": true,
+       "description": "Right to left, anything below the lip and above the ledge.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "provence",
+     "name": "Provence Buttress",
+     "lat": 55.133541,
+     "lon": -1.924615,
+     "positionEstimated": true,
+     "size": [
+      8,
+      4
+     ],
+     "rotation": 0,
+     "description": "90m right of Grange Farm Buttress, directly above Shaftoe Grange Farm.",
+     "problems": [
+      {
+       "number": "73",
+       "name": "A Week in Provence",
+       "grade": "7c",
+       "traverse": true,
+       "description": "From the layaway left of the nose, traverse right below the lip to a mantel.",
+       "photo": null
+      },
+      {
+       "number": "74",
+       "name": "Provence Traverse",
+       "grade": "5+",
+       "traverse": true,
+       "description": "Traverse the lip.",
+       "photo": null
+      },
+      {
+       "number": "75",
+       "name": "Weakling in Provence",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "Sit start at the back of the roof, undercling out to a good hold and mantel.",
+       "photo": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "south",
+   "name": "Shaftoe South",
+   "description": "Boulders in the wooded escarpment above Ferney Chesters and the A696, and on the plateau above. Generally more sheltered.",
+   "boulders": [
+    {
+     "id": "rudders",
+     "name": "Rudder's Boulders",
+     "lat": 55.131457,
+     "lon": -1.918879,
+     "positionEstimated": true,
+     "size": [
+      14,
+      5
+     ],
+     "rotation": 0,
+     "description": "Undercut pancake boulders on the plateau, with two more undercut boulders lower down the slope.",
+     "problems": [
+      {
+       "number": "1",
+       "name": "Rudyard",
+       "grade": "5+",
+       "traverse": true,
+       "description": "From the left end of the undercut pancake, follow the lip, exit the groove awkwardly and keep going right to a mantel.",
+       "photo": null
+      },
+      {
+       "number": "2",
+       "name": "",
+       "grade": "5+",
+       "traverse": true,
+       "description": "Lower right-hand boulder: from the gap between the boulders, traverse the lip to the left end.",
+       "photo": null
+      },
+      {
+       "number": "3",
+       "name": "",
+       "grade": "5+",
+       "traverse": true,
+       "description": "Lower left-hand boulder: one foot in the right-hand crack, traverse the lip to the top.",
+       "photo": null
+      },
+      {
+       "number": "4",
+       "name": "",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "Sit start, a hand in either crack, reach the lip and mantel. Stay between the cracks.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "seadog",
+     "name": "The Seadog Boulder",
+     "lat": 55.130793,
+     "lon": -1.91979,
+     "positionEstimated": true,
+     "size": [
+      6,
+      4
+     ],
+     "rotation": 0,
+     "description": "About 100m from the Punch Bowl, on the other side of the track from Rudder's Boulders.",
+     "problems": [
+      {
+       "number": "5",
+       "name": "Seadog Traverse",
+       "grade": "6b",
+       "traverse": true,
+       "description": "Both hands on the flat hold at the left end, traverse right and mantel.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "punch-bowl",
+     "name": "Punch Bowl",
+     "lat": 55.13081,
+     "lon": -1.922022,
+     "positionEstimated": true,
+     "size": [
+      12,
+      7
+     ],
+     "rotation": 0,
+     "description": "On the plateau directly above Cave Buttress, with a water-worn channel.",
+     "problems": [
+      {
+       "number": "6",
+       "name": "Black Pudding",
+       "grade": "7a",
+       "traverse": true,
+       "description": "From the left side between the detached boulder and the main boulder, traverse right below the lip to the big hold by the detached boulder on the right.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "7",
+       "name": "",
+       "grade": "?",
+       "traverse": true,
+       "description": "Start as Black Pudding, traverse round avoiding the detached boulder, finish right of the arête.",
+       "photo": null,
+       "check": "Name and grade hidden in the shadow"
+      },
+      {
+       "number": "8",
+       "name": "…vel 8.5%",
+       "grade": "7a",
+       "description": "Halfway between the left boulder and the channel, power over the bulge.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "9",
+       "name": "",
+       "grade": "5+",
+       "traverse": true,
+       "description": "From the water-worn channel, traverse right on the lip top to the right arête.",
+       "photo": null
+      },
+      {
+       "number": "10",
+       "name": "",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start under the water channel.",
+       "photo": null
+      },
+      {
+       "number": "11",
+       "name": "Canine",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "Sit start right of the water channel using the 'K' and '9' holds to the top.",
+       "photo": null
+      },
+      {
+       "number": "12",
+       "name": "",
+       "grade": "6c",
+       "sitStart": true,
+       "description": "Sit start with both hands on the flake under the roof, powerful moves up and over.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "cave-buttress",
+     "name": "Cave Buttress",
+     "lat": 55.130541,
+     "lon": -1.92177,
+     "positionEstimated": true,
+     "size": [
+      16,
+      7
+     ],
+     "rotation": 0,
+     "description": "The big cave under the Punch Bowl, reached most easily by old steps to the east.",
+     "problems": [
+      {
+       "number": "13",
+       "name": "Flake Crack",
+       "grade": "4+",
+       "description": "Awkward layback flake 5m left of the cave mouth.",
+       "photo": null
+      },
+      {
+       "number": "14",
+       "name": "Pocket Rocket",
+       "grade": "7a",
+       "description": "Wall right of Flake Crack on a good pocket and a small crimpy layaway.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "15",
+       "name": "Orangutan",
+       "grade": "6c",
+       "description": "Left of the corner with a pocket each hand, left round the roof. Watch the landing.",
+       "photo": null
+      },
+      {
+       "number": "16",
+       "name": "Feeding the Baboons",
+       "grade": "7a",
+       "description": "From the left corner 2m into the cave, underclings with feet on the wall across the roof to the right-hand crack.",
+       "photo": null
+      },
+      {
+       "number": "17",
+       "name": "The Eyes",
+       "grade": "6c",
+       "description": "From the hand jam left of the eyes at the back, along the left crack then swing into the right crack. Starting up The Eyes and finishing up Orangutan is 7b.",
+       "photo": null
+      },
+      {
+       "number": "18",
+       "name": "Right-hand Crack",
+       "grade": "7a+",
+       "description": "From the back of the cave out to the lip and round it, finishing as 19.",
+       "photo": null
+      },
+      {
+       "number": "19",
+       "name": "The Wall",
+       "grade": "4+",
+       "description": "Wall right of the cave.",
+       "photo": null,
+       "check": "Name partly hidden by glare"
+      }
+     ]
+    },
+    {
+     "id": "little-dal",
+     "name": "Little Dal Buttresses",
+     "lat": 55.130667,
+     "lon": -1.920497,
+     "positionEstimated": true,
+     "size": [
+      14,
+      6
+     ],
+     "rotation": 0,
+     "description": "Two buttresses with a big tree at their right end.",
+     "problems": [
+      {
+       "number": "20",
+       "name": "The Scoop",
+       "grade": "4",
+       "description": "Arête and scoop.",
+       "photo": null
+      },
+      {
+       "number": "21",
+       "name": "The Wall",
+       "grade": "6b",
+       "description": "Wall left of the crack: mantel from the head-height hold to the fluting. Reach helps.",
+       "photo": null
+      },
+      {
+       "number": "22",
+       "name": "Little Crack",
+       "grade": "4",
+       "description": "From a short corner, up the crack.",
+       "photo": null
+      },
+      {
+       "number": "23",
+       "name": "Little John",
+       "grade": "5",
+       "description": "From the shelf up the scoop.",
+       "photo": null
+      },
+      {
+       "number": "24",
+       "name": "Slab Arête",
+       "grade": "4",
+       "description": "Short slab and arête.",
+       "photo": null
+      },
+      {
+       "number": "25",
+       "name": "Little and Often",
+       "grade": "6b+",
+       "sitStart": true,
+       "description": "Sit start, crozzly holds to the break, long reach to the crack, awkward finish.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "26",
+       "name": "",
+       "grade": "4+",
+       "traverse": true,
+       "description": "Right to left across the scoop.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "long-wall",
+     "name": "Long Wall",
+     "lat": 55.130649,
+     "lon": -1.919586,
+     "positionEstimated": true,
+     "size": [
+      14,
+      4
+     ],
+     "rotation": 0,
+     "description": "Long traversing wall 30m right of Little Dal.",
+     "problems": [
+      {
+       "number": "27",
+       "name": "Long Wall Traverse",
+       "grade": "5+",
+       "traverse": true,
+       "description": "Low traverse of the break. Along the lip of the roof is 7a.",
+       "photo": null
+      },
+      {
+       "number": "27a",
+       "name": "Long Wall Mantel",
+       "grade": "7a",
+       "description": "Pull over the block to an awkward mantel.",
+       "photo": null,
+       "popular": true
+      }
+     ]
+    },
+    {
+     "id": "wickerman",
+     "name": "Wickerman Boulder",
+     "lat": 55.130541,
+     "lon": -1.919837,
+     "positionEstimated": true,
+     "size": [
+      4,
+      3
+     ],
+     "rotation": 0,
+     "description": "Boulder below the Long Wall.",
+     "problems": [
+      {
+       "number": "27b",
+       "name": "Wickerman",
+       "grade": "6b",
+       "description": "Mantel onto the boulder.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "minuscule-matterhorn",
+     "name": "Minuscule Matterhorn",
+     "lat": 55.130289,
+     "lon": -1.919162,
+     "positionEstimated": true,
+     "size": [
+      4,
+      4
+     ],
+     "rotation": 45,
+     "description": "Small pointed boulder at about the same height as Café Noir.",
+     "problems": [
+      {
+       "number": "28",
+       "name": "",
+       "grade": "?",
+       "description": "The arête and crack.",
+       "photo": null,
+       "check": "Name and grade hidden in the shadow"
+      },
+      {
+       "number": "29",
+       "name": "",
+       "grade": "?",
+       "description": "Wall right of the crack.",
+       "photo": null,
+       "check": "Name and grade hidden in the shadow"
+      }
+     ]
+    },
+    {
+     "id": "central-alcove",
+     "name": "Central Alcove",
+     "lat": 55.130487,
+     "lon": -1.917967,
+     "positionEstimated": true,
+     "size": [
+      14,
+      6
+     ],
+     "rotation": 0,
+     "description": "Alcove set a few metres up the hillside between Café Noir and Two Tier Boulder, with a crack and big chockstone in the middle.",
+     "problems": [
+      {
+       "number": "30",
+       "name": "",
+       "grade": "4",
+       "description": "Short left wall of the alcove.",
+       "photo": null
+      },
+      {
+       "number": "31",
+       "name": "Jam Crack",
+       "grade": "4",
+       "description": "Short crack.",
+       "photo": null
+      },
+      {
+       "number": "32",
+       "name": "Pegasus",
+       "grade": "4+",
+       "description": "Wall right of the crack past the old peg.",
+       "photo": null
+      },
+      {
+       "number": "33",
+       "name": "",
+       "grade": "5+",
+       "description": "Wall right behind the tree.",
+       "photo": null
+      },
+      {
+       "number": "34",
+       "name": "",
+       "grade": "4",
+       "description": "Left wall of the chockstone chimney by the arête. No bridging.",
+       "photo": null
+      },
+      {
+       "number": "35",
+       "name": "",
+       "grade": "5+",
+       "description": "Right wall of the chimney. No bridging.",
+       "photo": null
+      },
+      {
+       "number": "36",
+       "name": "Antler and Deck",
+       "grade": "7a",
+       "description": "Arête to the right, steep moves to the antler-shaped feature, then jugs and flutes.",
+       "photo": null
+      },
+      {
+       "number": "37",
+       "name": "Butch Catch-Me and the Campus Board Kid",
+       "grade": "6c+",
+       "sitStart": true,
+       "description": "Sit start, crimps from a good lip hold up and right to slap for a jug set back from the edge.",
+       "photo": null,
+       "popular": true
+      }
+     ]
+    },
+    {
+     "id": "two-tier",
+     "name": "Two Tier Boulder",
+     "lat": 55.130469,
+     "lon": -1.91726,
+     "positionEstimated": true,
+     "size": [
+      14,
+      8
+     ],
+     "rotation": 0,
+     "description": "Deserves more traffic, and very sheltered from cold northerlies in winter.",
+     "problems": [
+      {
+       "number": "38",
+       "name": "A Tale of Two Cities",
+       "grade": "5+",
+       "traverse": true,
+       "description": "Upper tier: from the block behind the lower tier, hands in the crack, finish on the right-hand block.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "38x",
+       "name": "",
+       "grade": "?",
+       "description": "Left side of the lower wall.",
+       "photo": null,
+       "check": "Number, name and grade hidden in the shadow"
+      },
+      {
+       "number": "39",
+       "name": "Tears in Heaven",
+       "grade": "5+",
+       "description": "Left end of the boulder; hard pull off the ground to good holds.",
+       "photo": null,
+       "check": "Number hidden, assumed 39"
+      },
+      {
+       "number": "40",
+       "name": "River of Tears",
+       "grade": "7b+",
+       "description": "Under the arête with right hand on a layaway, pull on and follow undercuts to finish up the flake.",
+       "photo": null,
+       "popular": true
+      },
+      {
+       "number": "41",
+       "name": "Tears on the Dance Floor",
+       "grade": "6b+",
+       "description": "Rounded arête left of the groove.",
+       "photo": null,
+       "check": "Number hidden, assumed 41"
+      },
+      {
+       "number": "42",
+       "name": "Tuppence Ha'penny",
+       "grade": "4+",
+       "description": "Corner groove up and round the tree.",
+       "photo": null,
+       "check": "Number hidden, assumed 42"
+      },
+      {
+       "number": "43",
+       "name": "Edge of Sanity",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start to the left arête of the slanting crack.",
+       "photo": null
+      },
+      {
+       "number": "44",
+       "name": "Two Tier Crack",
+       "grade": "4+",
+       "sitStart": true,
+       "description": "Sit start up the crack to the ledge, escape left.",
+       "photo": null
+      },
+      {
+       "number": "45",
+       "name": "Tears for Fears",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start to the right arête of the crack.",
+       "photo": null
+      },
+      {
+       "number": "46",
+       "name": "Two Tears",
+       "grade": "7a+",
+       "sitStart": true,
+       "description": "Sit start under the bulge, up the left crease, hard finish.",
+       "photo": null
+      },
+      {
+       "number": "47",
+       "name": "Two a Penny",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start at the right end just right of the bulge, right crease to the top.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "cyclops",
+     "name": "Cyclops Buttress",
+     "lat": 55.130604,
+     "lon": -1.916474,
+     "positionEstimated": true,
+     "size": [
+      8,
+      6
+     ],
+     "rotation": 0,
+     "description": "80m right of Two Tier Boulder.",
+     "problems": [
+      {
+       "number": "48",
+       "name": "Green Wall",
+       "grade": "4",
+       "description": "Left side of the buttress.",
+       "photo": null
+      },
+      {
+       "number": "49",
+       "name": "Left Arête",
+       "grade": "4+",
+       "description": "The left arête.",
+       "photo": null
+      },
+      {
+       "number": "50",
+       "name": "Cyclops Wall",
+       "grade": "5",
+       "description": "Straight up to the eye.",
+       "photo": null
+      },
+      {
+       "number": "51",
+       "name": "Right Arête",
+       "grade": "5",
+       "description": "Right arête. A bit crumbly, take care.",
+       "photo": null
+      },
+      {
+       "number": "52",
+       "name": "The Scoop",
+       "grade": "4+",
+       "description": "Scoop just right of Right Arête. The better problem.",
+       "photo": null
+      },
+      {
+       "number": "53",
+       "name": "Side Wall",
+       "grade": "4+",
+       "description": "Short wall to a tricky mantel.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "halfway-house",
+     "name": "Halfway House",
+     "lat": 55.130065,
+     "lon": -1.921346,
+     "positionEstimated": true,
+     "size": [
+      5,
+      4
+     ],
+     "rotation": 0,
+     "description": "Halfway down the hillside between the arête right of Cave Buttress and the roadside boulders.",
+     "problems": [
+      {
+       "number": "54",
+       "name": "",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start at the top right corner on two slopers, up and right.",
+       "photo": null
+      },
+      {
+       "number": "55",
+       "name": "",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start under the undercut arête and follow it.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "roadside",
+     "name": "Roadside Boulder",
+     "lat": 55.129625,
+     "lon": -1.921456,
+     "positionEstimated": true,
+     "size": [
+      10,
+      7
+     ],
+     "rotation": 0,
+     "description": "Big boulder at the bottom near the track. Roadside Face problems go left to right; three more are on the Hillside Face behind.",
+     "problems": [
+      {
+       "number": "56",
+       "name": "Slim Shady",
+       "grade": "6a",
+       "description": "Arête left of the big crack. Sit start is 7a.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "57",
+       "name": "Intermittent Crack",
+       "grade": "5+",
+       "description": "Broken crack splitting the left edge of the boulder.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "58",
+       "name": "Not to be Taken Away",
+       "grade": "5",
+       "description": "Flake on the left of the front wall to the second break, long reach to finish.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "59",
+       "name": "Roadside Wall",
+       "grade": "7c+",
+       "description": "Middle of the Roadside Face.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "60",
+       "name": "Roadside Arête",
+       "grade": "5",
+       "description": "Just left of the right arête to good holds and jugs.",
+       "photo": null,
+       "check": "Start of name cut off"
+      },
+      {
+       "number": "61",
+       "name": "",
+       "grade": "4",
+       "description": "Hillside Face: left arête.",
+       "photo": null
+      },
+      {
+       "number": "62",
+       "name": "",
+       "grade": "5",
+       "description": "Hillside Face: up to the fluting on small crimps.",
+       "photo": null
+      },
+      {
+       "number": "63",
+       "name": "",
+       "grade": "4",
+       "description": "Hillside Face: the easy slab on the right.",
+       "photo": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
