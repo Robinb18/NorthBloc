@@ -147,29 +147,26 @@
       {
        "number": "9",
        "name": "",
-       "grade": "?",
+       "grade": "6b",
        "traverse": true,
        "description": "Starts on a layaway at the left end and traverses to the dirty corner.",
-       "photo": null,
-       "check": "Name and grade hidden in the photo"
+       "photo": null
       },
       {
        "number": "10",
        "name": "",
-       "grade": "?",
+       "grade": "6c",
        "traverse": true,
        "description": "From the dirty corner, traverse right along the roof until you can land on the block.",
-       "photo": null,
-       "check": "Name and grade hidden in the photo"
+       "photo": null
       },
       {
        "number": "11",
        "name": "",
-       "grade": "?",
+       "grade": "7a",
        "traverse": true,
        "description": "Problems 9 and 10 combined, a good stamina workout.",
-       "photo": null,
-       "check": "Number, name and grade hidden in the photo"
+       "photo": null
       }
      ]
     },
@@ -579,28 +576,25 @@
       {
        "number": "35",
        "name": "",
-       "grade": "?",
+       "grade": "6c",
        "traverse": true,
        "description": "From the left end, traverse and mantel.",
-       "photo": null,
-       "check": "Name and grade hidden in the shadow"
+       "photo": null
       },
       {
        "number": "36",
        "name": "",
-       "grade": "?",
+       "grade": "6c",
        "description": "Starts from the right-hand hole.",
-       "photo": null,
-       "check": "Name and grade hidden in the shadow"
+       "photo": null
       },
       {
        "number": "37",
        "name": "",
-       "grade": "?",
+       "grade": "7b",
        "traverse": true,
        "description": "From the gully on the right, traverse left to the nose and finish as for 35.",
-       "photo": null,
-       "check": "Name and grade hidden in the shadow"
+       "photo": null
       }
      ]
     },
@@ -620,10 +614,9 @@
       {
        "number": "38",
        "name": "",
-       "grade": "?",
+       "grade": "3+",
        "description": "Left side of the slab.",
-       "photo": null,
-       "check": "Name and grade hidden in the shadow"
+       "photo": null
       }
      ]
     },
@@ -1098,19 +1091,17 @@
       {
        "number": "33",
        "name": "",
-       "grade": "?",
+       "grade": "5",
        "description": "Two-finger pocket then up right of Crucifix Crack.",
-       "photo": null,
-       "check": "Name and grade hidden in the shadow"
+       "photo": null
       },
       {
        "number": "34",
        "name": "",
-       "grade": "?",
+       "grade": "6c",
        "traverse": true,
        "description": "From the left arête, traverse right to the crack and the break.",
-       "photo": null,
-       "check": "Name hidden; grade ends in 'c'"
+       "photo": null
       }
      ]
     },
@@ -1182,19 +1173,19 @@
      "problems": [
       {
        "number": "1",
-       "name": "Mustard",
+       "name": "Bleaustard",
        "grade": "6a+",
        "description": "Up to the crack, then finger locks and jams.",
        "photo": null,
-       "check": "Start of name cut off by the page fold"
+       "check": "Name completed from Rockfax (the photo showed only the end). Guidebook 6a+, Rockfax 6a"
       },
       {
        "number": "2",
-       "name": "…ly Belter",
+       "name": "Purely Belter",
        "grade": "8a",
        "description": "Hard bulge right of the crack. If it feels easy you are too far right.",
        "photo": null,
-       "check": "Start of name cut off by the page fold"
+       "check": "Guidebook photo shows 8a, Rockfax gives 7b"
       },
       {
        "number": "3",
@@ -1215,10 +1206,9 @@
       {
        "number": "5",
        "name": "",
-       "grade": "?",
+       "grade": "6a",
        "description": "Wall right of Incipient Crack from standing. Sit start at the knee-height pocket, up and left to the break, is 6b.",
-       "photo": null,
-       "check": "Name and standing grade hidden"
+       "photo": null
       },
       {
        "number": "6",
@@ -1247,11 +1237,10 @@
       },
       {
        "number": "9",
-       "name": "…al Prow",
+       "name": "Final Prow",
        "grade": "4+",
        "description": "Arête just right of the crack.",
-       "photo": null,
-       "check": "Start of name cut off by the page fold"
+       "photo": null
       },
       {
        "number": "10",
@@ -1567,11 +1556,10 @@
       },
       {
        "number": "36",
-       "name": "…amp",
+       "name": "Clamp",
        "grade": "5+",
        "description": "Left pinnacle from a crouch.",
-       "photo": null,
-       "check": "Start of name cut off, could be Ramp or Damp"
+       "photo": null
       },
       {
        "number": "37",
@@ -1584,11 +1572,10 @@
       {
        "number": "38",
        "name": "",
-       "grade": "?",
+       "grade": "6c",
        "traverse": true,
        "description": "Left side of the undercut slab and crack, along slopers to finish up the arête.",
-       "photo": null,
-       "check": "Name hidden; grade ends in 'c'"
+       "photo": null
       },
       {
        "number": "39",
@@ -2066,10 +2053,9 @@
       {
        "number": "22",
        "name": "",
-       "grade": "?",
+       "grade": "6a",
        "description": "0.5m right of the crack using the pocket.",
-       "photo": null,
-       "check": "Name and grade hidden in the shadow"
+       "photo": null
       },
       {
        "number": "23",
@@ -2344,10 +2330,9 @@
       {
        "number": "48",
        "name": "",
-       "grade": "?",
+       "grade": "5+",
        "description": "Right wall of the gully just left of the arête.",
-       "photo": null,
-       "check": "Name hidden; grade ends in '+'"
+       "photo": null
       },
       {
        "number": "49",
@@ -2730,19 +2715,18 @@
       {
        "number": "7",
        "name": "",
-       "grade": "?",
+       "grade": "6c",
        "traverse": true,
        "description": "Start as Black Pudding, traverse round avoiding the detached boulder, finish right of the arête.",
-       "photo": null,
-       "check": "Name and grade hidden in the shadow"
+       "photo": null
       },
       {
        "number": "8",
-       "name": "…vel 8.5%",
+       "name": "The Real Duvel 8.5%",
        "grade": "7a",
        "description": "Halfway between the left boulder and the channel, power over the bulge.",
        "photo": null,
-       "check": "Start of name cut off"
+       "check": "Guidebook photo shows 7a, Rockfax gives 6c (and 6c+ for an extension)"
       },
       {
        "number": "9",
@@ -2980,18 +2964,16 @@
       {
        "number": "28",
        "name": "",
-       "grade": "?",
+       "grade": "4",
        "description": "The arête and crack.",
-       "photo": null,
-       "check": "Name and grade hidden in the shadow"
+       "photo": null
       },
       {
        "number": "29",
        "name": "",
-       "grade": "?",
+       "grade": "4",
        "description": "Wall right of the crack.",
-       "photo": null,
-       "check": "Name and grade hidden in the shadow"
+       "photo": null
       }
      ]
     },

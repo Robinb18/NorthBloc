@@ -20,9 +20,9 @@ B("rift","rift-west","The Rift, West Block",205,268,14,6,-8,"Short wall about 50
  ("8","","6a","t","From above the block at the left end, follow the lip right, drop to the break, come back left via two big pockets and finish along the lip.",""),
 ])
 B("rift","rift-south","The Rift, South Side",255,238,48,8,-6,"The opposite (south) wall of the valley.",[
- ("9","","?","t","Starts on a layaway at the left end and traverses to the dirty corner.","Name and grade hidden in the photo"),
- ("10","","?","t","From the dirty corner, traverse right along the roof until you can land on the block.","Name and grade hidden in the photo"),
- ("11","","?","t","Problems 9 and 10 combined, a good stamina workout.","Number, name and grade hidden in the photo"),
+ ("9","","6b","t","Starts on a layaway at the left end and traverses to the dirty corner.",""),
+ ("10","","6c","t","From the dirty corner, traverse right along the roof until you can land on the block.",""),
+ ("11","","7a","t","Problems 9 and 10 combined, a good stamina workout.",""),
 ])
 B("rift","rift-schism","Schism Wall",200,236,30,7,-5,"Western end of the south side.",[
  ("12","Schism","7a","t","From the dirty corner left of the nose, move left along the break with harder and harder moves until you can step onto the slab.",""),
@@ -78,12 +78,12 @@ B("north","punishment-block","Punishment Block",-246,474,12,7,10,"Whale-shaped b
  ("34","","6c","","Mantel over the lip.",""),
 ])
 B("north","dolphin","Dolphin",-249,440,10,5,10,"Boulder just south of the Punishment Block.",[
- ("35","","?","t","From the left end, traverse and mantel.","Name and grade hidden in the shadow"),
- ("36","","?","","Starts from the right-hand hole.","Name and grade hidden in the shadow"),
- ("37","","?","t","From the gully on the right, traverse left to the nose and finish as for 35.","Name and grade hidden in the shadow"),
+ ("35","","6c","t","From the left end, traverse and mantel.",""),
+ ("36","","6c","","Starts from the right-hand hole.",""),
+ ("37","","7b","t","From the gully on the right, traverse left to the nose and finish as for 35.",""),
 ])
 B("north","inclined-slab","The Inclined Slab",-236,418,5,8,-20,"A tilted slab resting on two other boulders.",[
- ("38","","?","","Left side of the slab.","Name and grade hidden in the shadow"),
+ ("38","","3+","","Left side of the slab.",""),
 ])
 B("north","grindstone","The Grindstone",-255,398,9,8,0,"Dome-topped boulder with a 2m roof and two smaller boulders under it. Two easy warm-ups go either side of the arête to its right.",[
  ("39","","7a","t","From the left, traverse to the nose and mantel.",""),
@@ -146,8 +146,8 @@ B("central","crucifix","Crucifix Boulder",42,112,12,5,0,"On the edge of the nort
  ("30","","6a","","Arête at the left end of the boulder.","Name hidden and grade only partly visible (looks like 6a)"),
  ("31","","6a","","Middle of the wall, avoiding the crack.","Name hidden and grade only partly visible (looks like 6a)"),
  ("32","Crucifix Crack","5","","The crack.",""),
- ("33","","?","","Two-finger pocket then up right of Crucifix Crack.","Name and grade hidden in the shadow"),
- ("34","","?","t","From the left arête, traverse right to the crack and the break.","Name hidden; grade ends in 'c'"),
+ ("33","","5","","Two-finger pocket then up right of Crucifix Crack.",""),
+ ("34","","6c","t","From the left arête, traverse right to the crack and the break.",""),
 ])
 B("central","oyster-rock","Oyster Rock (Wall Boulder)",110,98,8,5,0,"Boulder cut through by the wall, halfway up the north side of the valley, across the track from Crucifix Boulder.",[
  ("35","Oyster Traverse","6a","t","Lip traverse from the right, finishing on the wall.",""),
@@ -158,15 +158,15 @@ B("central","boulder-in-the-woods","Boulder in the Woods",190,52,6,4,0,"Well hid
 
 # ---------------- WESTERN EDGES ----------------
 B("western","font-boulder","Font Boulder",-430,22,14,8,10,"Always clean and well chalked. The shelf is out of bounds for every traverse.",[
- ("1","Mustard","6a+","","Up to the crack, then finger locks and jams.","Start of name cut off by the page fold"),
- ("2","…ly Belter","8a","","Hard bulge right of the crack. If it feels easy you are too far right.","Start of name cut off by the page fold"),
+ ("1","Bleaustard","6a+","","Up to the crack, then finger locks and jams.","Name completed from Rockfax (the photo showed only the end). Guidebook 6a+, Rockfax 6a"),
+ ("2","Purely Belter","8a","","Hard bulge right of the crack. If it feels easy you are too far right.","Guidebook photo shows 8a, Rockfax gives 7b"),
  ("3","Surprising Solution","7a","","Easier bulge 2m right of the crack.","Start of name cut off by the page fold"),
  ("4","Incipient Crack","6a","","Hanging crack from standing. Sit start from the pedestal left of the lower hairline crack is 7a.",""),
- ("5","","?","","Wall right of Incipient Crack from standing. Sit start at the knee-height pocket, up and left to the break, is 6b.","Name and standing grade hidden"),
+ ("5","","6a","","Wall right of Incipient Crack from standing. Sit start at the knee-height pocket, up and left to the break, is 6b.",""),
  ("6","Short Crack","4+","","The crack using hands only.","Start of name cut off by the page fold"),
  ("7","The Prow","6a","s","The prow from a sit start.","Start of name cut off by the page fold"),
  ("8","Cuvier","6a","","From the break under the roof at the right end, gain holds above the lip and mantel. No bridging.","Start of name cut off by the page fold"),
- ("9","…al Prow","4+","","Arête just right of the crack.","Start of name cut off by the page fold"),
+ ("9","Final Prow","4+","","Arête just right of the crack.",""),
  ("10","Gnarly Start","7a","t","Rarely repeated traverse from the far left, hands under the top, to the crack, then as 11 and reverse 12.",""),
  ("11","Font Traverse","6c","t","Start as 1, traverse to finish up Incipient Crack. A Shaftoe classic. Keeping hands below the break is 7a+.",""),
  ("12","Reverse Traverse","6b","t","From just left of Cuvier traverse left to finish up Incipient Crack. 11 then 12 reversed is the Classic Link, 6c+.",""),
@@ -207,9 +207,9 @@ B("western","smiths-rocks","Smith's Rocks",-452,-55,24,7,-5,"A ridge of boulders
  ("33","The Edge","6a","","Left arête of The Bunker.",""),
  ("34","Weasels Ripped my Flesh","6c","","Good hold, long move left to the lip and a small pocket, round the overhang onto the face.","First letter of name cut off"),
  ("35","Classic Arête","4","","Well-shaped arête. Sit start is 6b with an awkward pull round.","Start of name cut off"),
- ("36","…amp","5+","","Left pinnacle from a crouch.","Start of name cut off, could be Ramp or Damp"),
+ ("36","Clamp","5+","","Left pinnacle from a crouch.",""),
  ("37","City of Sand","6b","","Right pinnacle, carefully.","Start of name cut off"),
- ("38","","?","t","Left side of the undercut slab and crack, along slopers to finish up the arête.","Name hidden; grade ends in 'c'"),
+ ("38","","6c","t","Left side of the undercut slab and crack, along slopers to finish up the arête.",""),
  ("39","Pebble Slab","6c","","Straight up the middle of the slab.","Start of name cut off"),
  ("40","Proposal","6c","","Lie-down start under the prow, feet on the thin plate, pinch out. Using the good edges low down is a desperate 7c.","Start of name cut off"),
 ])
@@ -272,7 +272,7 @@ B("summit","dishpan-alley","Dishpan Alley",-326,-178,26,6,-5,"Small escarpment o
  ("19","","4+","s","Crouching start under the roof 3m right of the arête, to a pocket or dish, then up.",""),
  ("20","","5+","","Wall just left of the crack, avoiding it.",""),
  ("21","","5+","","From the undercling under the roof, right side of the crack using the big pocket.",""),
- ("22","","?","","0.5m right of the crack using the pocket.","Name and grade hidden in the shadow"),
+ ("22","","6a","","0.5m right of the crack using the pocket.",""),
  ("23","Rising Cramp","7a","t","From the crack, right to the hole, wedge into the scoop, then crimp across to the arête.","Start of name cut off"),
  ("24","Rising Damp","6b","","Under the roof, slopers right of the corner and the edge of the ramp, mantel up and right.","Start of name cut off"),
  ("25","Corner","4+","","The corner.","Start of name cut off"),
@@ -308,7 +308,7 @@ B("summit","fluted-wall","Fluted Wall",-385,-200,8,4,0,"Back wall between Main B
  ("FW","Fluted Wall Traverse","6b+","t","Traverse leftwards from 49 past the flutings to 43.","Number hidden in the shadow"),
 ])
 B("summit","the-cob","The Cob",-372,-208,12,8,0,"Leaf-shaped buttress right of the Fluted Wall. Its back forms one side of Ship's Bait Cabin.",[
- ("48","","?","","Right wall of the gully just left of the arête.","Name hidden; grade ends in '+'"),
+ ("48","","5+","","Right wall of the gully just left of the arête.",""),
  ("49","Cob Arête","5","","The photogenic arête.",""),
  ("50","","6a","","Good pockets right of the arête to a hold up and right. Popular.",""),
  ("51","Hound Dog","7a+","","Two-finger pocket at 3m, reached via an undercut. Often tried, rarely topped.",""),
@@ -359,8 +359,8 @@ B("south","seadog","The Seadog Boulder",-238,-622,6,4,0,"About 100m from the Pun
 ])
 B("south","punch-bowl","Punch Bowl",-380,-620,12,7,0,"On the plateau directly above Cave Buttress, with a water-worn channel.",[
  ("6","Black Pudding","7a","t","From the left side between the detached boulder and the main boulder, traverse right below the lip to the big hold by the detached boulder on the right.","Start of name cut off"),
- ("7","","?","t","Start as Black Pudding, traverse round avoiding the detached boulder, finish right of the arête.","Name and grade hidden in the shadow"),
- ("8","…vel 8.5%","7a","","Halfway between the left boulder and the channel, power over the bulge.","Start of name cut off"),
+ ("7","","6c","t","Start as Black Pudding, traverse round avoiding the detached boulder, finish right of the arête.",""),
+ ("8","The Real Duvel 8.5%","7a","","Halfway between the left boulder and the channel, power over the bulge.","Guidebook photo shows 7a, Rockfax gives 6c (and 6c+ for an extension)"),
  ("9","","5+","t","From the water-worn channel, traverse right on the lip top to the right arête.",""),
  ("10","","5+","s","Sit start under the water channel.",""),
  ("11","Canine","6a","s","Sit start right of the water channel using the 'K' and '9' holds to the top.",""),
@@ -392,8 +392,8 @@ B("south","wickerman","Wickerman Boulder",-241,-650,4,3,0,"Boulder below the Lon
  ("27b","Wickerman","6b","","Mantel onto the boulder.",""),
 ])
 B("south","minuscule-matterhorn","Minuscule Matterhorn",-198,-678,4,4,45,"Small pointed boulder at about the same height as Café Noir.",[
- ("28","","?","","The arête and crack.","Name and grade hidden in the shadow"),
- ("29","","?","","Wall right of the crack.","Name and grade hidden in the shadow"),
+ ("28","","4","","The arête and crack.",""),
+ ("29","","4","","Wall right of the crack.",""),
 ])
 B("south","central-alcove","Central Alcove",-122,-656,14,6,0,"Alcove set a few metres up the hillside between Café Noir and Two Tier Boulder, with a crack and big chockstone in the middle.",[
  ("30","","4","","Short left wall of the alcove.",""),
