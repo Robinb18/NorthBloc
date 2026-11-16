@@ -8,6 +8,13 @@ These are the problems where the guidebook photo was unreadable (glare, the page
 |---|---|---|---|---|
 | Crucifix Boulder | 30 | (unnamed) | 6a | Name hidden and grade only partly visible (looks like 6a) |
 | Crucifix Boulder | 31 | (unnamed) | 6a | Name hidden and grade only partly visible (looks like 6a) |
+| The Ravine, Low Slab | 44 | Shallow Groove | 4 | Number hidden by the page fold, taken from the order on the page |
+| The Ravine, Low Slab | 45 | Pocket Wall | 4 | Number and start of name hidden by the page fold |
+| The Ravine, Low Slab | 46 | Side Wall | 4 | Number and start of name hidden by the page fold |
+| The Ravine, Low Slab | 47 | Hidden Crack | 6a | Number and start of name hidden by the page fold |
+| The Ravine, Low Slab | 48 | Young's Arête | 6b | Number and start of name hidden by the page fold |
+| The Big Birch Boulder | 69 | Last of the Summer Wine | 7a | Number partly hidden by glare |
+| The Big Birch, East Boulders | 70 | (unnamed) | 5+ | Number and grade partly hidden by glare. Rockfax lists a 5+ here called The Weasel |
 
 ## Western Edges
 

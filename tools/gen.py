@@ -50,7 +50,6 @@ crag={
  "notes":"Over 300 problems on 50+ boulders across Shaftoe Moor. The ground gets wet and boggy in winter and after long rain. Rock quality varies, and it can be soft and friable at the base of some boulders.",
  "positionsNote":"Boulder positions are estimated. The guidebook's sketch maps were lined up with the rocks visible on satellite imagery and mapped in OpenStreetMap, then each boulder was placed on the nearest mapped rock. Some may still be tens of metres out, so correct them on site with the Fix position tool.",
  "source":"Problem names, numbers and grades from the Northumberland guidebook (Shaftoe pages 332-383). Descriptions written fresh for this app.",
- "missing":["Central Area problems 37-72 (Boulder by the Gate, Undercut Walls, Mrs Mops, The Ravine, The Big Birch, Dead Pine) were on pages 348-351, which were not in the photos."],
  "sectors":sectors}
 json.dump(crag,open('shaftoe.json','w'),indent=1,ensure_ascii=False)
 np=sum(len(b['problems']) for s in sectors for b in s['boulders']); nb=sum(len(s['boulders']) for s in sectors)

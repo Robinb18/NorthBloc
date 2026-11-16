@@ -156,6 +156,63 @@ B("central","boulder-in-the-woods","Boulder in the Woods",190,52,6,4,0,"Well hid
  ("36","","7a","t","Right of a short chimney, low left-to-right traverse across the central groove (the crux), round the arête past the tree.",""),
 ])
 
+B("central","gate-boulder","Boulder by the Gate",58,-28,8,5,0,"The undercut boulder down on the right as you come through the gate from the Bolam side. Also called the First Boulder.",[
+ ("37","","7a","t","Traverse the lip. Getting across the stain in the middle is the hard part.",""),
+])
+B("central","undercut-walls","Undercut Walls",-16,-28,22,6,0,"Undercut walls about 100m up the valley from the Boulder by the Gate.",[
+ ("38","","6a","t","Traverse the two right-hand boulders from left to right. The step across from one to the other is the crux.",""),
+ ("39","","6a","t","From the crack at the left end, traverse right and finish at the grassy break.",""),
+])
+B("central","mrs-mops","Mrs Mops",27,22,10,5,0,"A neglected wall with some easier climbs.",[
+ ("40","","4","","Easy line up the pockets.",""),
+ ("41","","4","","Just right of 40: the wall left of the obvious crack, using crimps only.",""),
+ ("42","","4","","The crack.",""),
+ ("43","","4","","Start just left of the right end of the buttress with hands in the bottom break, trend left and finish up the wall right of the crack.",""),
+])
+B("central","ravine-slab","The Ravine, Low Slab",-17,80,14,6,0,"Low slab and boulder at the right (east) end of The Ravine, just down from Lost Arrowhead.",[
+ ("44","Shallow Groove","4","","The shallow groove.","Number hidden by the page fold, taken from the order on the page"),
+ ("45","Pocket Wall","4","","The wall by way of the big pocket.","Number and start of name hidden by the page fold"),
+ ("46","Side Wall","4","","Follow the line of good crimps.","Number and start of name hidden by the page fold"),
+ ("47","Hidden Crack","6a","","The crack behind the boulder.","Number and start of name hidden by the page fold"),
+ ("48","Young's Arête","6b","","The short arête next to the boulder.","Number and start of name hidden by the page fold"),
+])
+B("central","ravine-wall","The Ravine, Main Wall",-52,82,34,7,0,"South-facing wall below Lost Arrowhead, with more eliminates squeezed between the listed lines. The slab right of Shallow Groove has many lines, easier the further right you go.",[
+ ("49","Easy Wall","4","","The wall just left of the corner crack.",""),
+ ("50","Crack One","5","s","Sit start, then up the crack without using the big block.",""),
+ ("50a","No Need for Speed","6c+","s","Link: start just left of 50 and finish up 51. Recommended.",""),
+ ("51","Smooth Wall","7a","","The wall on poor sloping holds.",""),
+ ("52","Crack Two","4","","The left-hand crack.",""),
+ ("52a","Buford T Justice","6c+","","The smooth wall just left of the crack, hard on the grip.",""),
+ ("53","Pocket Wall","5+","","The wall past a good pocket.",""),
+ ("54","","5+","","Wall right of the hueco, trending right to the top.",""),
+ ("55","Way Cool","5","","The wall using the big hueco.",""),
+ ("56","","6a","","Next wall left, with a nasty top-out.",""),
+ ("57","","5","","The wall further left again.",""),
+ ("LT","Low Level Traverse","4","t","Traverse along the wall at low level.",""),
+ ("MT","Mid Level Traverse","4+","t","Traverse along the wall at the height of the hole.",""),
+])
+B("central","big-birch-edge","The Big Birch, Escarpment",-112,40,30,6,0,"Overgrown but worth a look, below a birch on top of the escarpment. Look for the two large birch trees.",[
+ ("58","","6a","s","Sit start to the left arête.",""),
+ ("59","","6a","s","Sit start with the left hand on a pinch on the arête and the right on a sloper, reach a two-finger pocket, then another pocket on the lip and mantel.",""),
+ ("60","","6b","s","Sit start, the right arête. A low traverse from left to right finishing up this arête is 6c.",""),
+ ("61","","4+","s","About 10m right. Sit start on the block in the cave facing the left wall, move left out of the cave, then back right to top out over the lip.",""),
+ ("62","","5","s","Sit start, the wall left of the fluting.",""),
+ ("63","","4","","The four clear flutings, keeping off the ledge on the left. 5 from a sit start.",""),
+])
+B("central","big-birch","The Big Birch Boulder",-94,34,10,6,0,"The boulder next to the big birch tree.",[
+ ("64","","5","t","Low-level traverse from left to right.",""),
+ ("65","","6a","s","Sit start to the break, then up for a sloper and mantel. Easier if you use the left arête.",""),
+ ("66","Branch Left","6a","","Start just left of the branch and go straight up.",""),
+ ("67","Branch Right","6b","","From the undercuts just right of the branch, slap for a sloper, then expect an awkward landing on the slab or the ground.",""),
+ ("68","","5+","s","Sit start under the nose at the right end and mantel to finish.",""),
+ ("69","Last of the Summer Wine","7a","t","From the flat hold right of the right arête, move down and round the nose, traverse left with hands on top past the tree without touching it, and on to the left arête to finish as for 65.","Number partly hidden by glare"),
+])
+B("central","big-birch-east","The Big Birch, East Boulders",-80,38,10,6,0,"Boulders just east of the Big Birch boulder.",[
+ ("70","","5+","s","Sit start from the layaway 2m left of the arête, move right round the nose with hands below the top, and finish at the top end of the boulder.","Number and grade partly hidden by glare. Rockfax lists a 5+ here called The Weasel"),
+ ("71","The Shelf","5","s","Under the roof to the right: sit start just right of the block on the ground, up and left to stand on the jutting shelf.",""),
+ ("72","The Mantel","7a+","s","Sit start to the lip. With luck you finish on top rather than on the ground.",""),
+])
+
 # ---------------- WESTERN EDGES ----------------
 B("western","font-boulder","Font Boulder",-430,22,14,8,10,"Always clean and well chalked. The shelf is out of bounds for every traverse.",[
  ("1","Bleaustard","6a+","","Up to the crack, then finger locks and jams.","Name completed from Rockfax (the photo showed only the end). Guidebook 6a+, Rockfax 6a"),

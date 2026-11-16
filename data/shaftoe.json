@@ -28,9 +28,6 @@
  "notes": "Over 300 problems on 50+ boulders across Shaftoe Moor. The ground gets wet and boggy in winter and after long rain. Rock quality varies, and it can be soft and friable at the base of some boulders.",
  "positionsNote": "Boulder positions are estimated. The guidebook's sketch maps were lined up with the rocks visible on satellite imagery and mapped in OpenStreetMap, then each boulder was placed on the nearest mapped rock. Some may still be tens of metres out, so correct them on site with the Fix position tool.",
  "source": "Problem names, numbers and grades from the Northumberland guidebook (Shaftoe pages 332-383). Descriptions written fresh for this app.",
- "missing": [
-  "Central Area problems 37-72 (Boulder by the Gate, Undercut Walls, Mrs Mops, The Ravine, The Big Birch, Dead Pine) were on pages 348-351, which were not in the photos."
- ],
  "sectors": [
   {
    "id": "rift",
@@ -824,8 +821,8 @@
     {
      "id": "small-boulder",
      "name": "Small Boulder",
-     "lat": 55.135194,
-     "lon": -1.917873,
+     "lat": 55.135095,
+     "lon": -1.917527,
      "positionEstimated": true,
      "size": [
       4,
@@ -878,14 +875,14 @@
     {
      "id": "finger-bowl",
      "name": "Finger Bowl Boulders",
-     "lat": 55.135104,
-     "lon": -1.917559,
+     "lat": 55.134934,
+     "lon": -1.91715,
      "positionEstimated": true,
      "size": [
       8,
       4
      ],
-     "rotation": -23,
+     "rotation": -9,
      "description": "A few metres right of Syco Sheep Wall.",
      "problems": [
       {
@@ -1147,6 +1144,432 @@
        "grade": "7a",
        "traverse": true,
        "description": "Right of a short chimney, low left-to-right traverse across the central groove (the crux), round the arête past the tree.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "gate-boulder",
+     "name": "Boulder by the Gate",
+     "lat": 55.134233,
+     "lon": -1.915201,
+     "positionEstimated": true,
+     "size": [
+      8,
+      5
+     ],
+     "rotation": -10,
+     "description": "The undercut boulder down on the right as you come through the gate from the Bolam side. Also called the First Boulder.",
+     "problems": [
+      {
+       "number": "37",
+       "name": "",
+       "grade": "7a",
+       "traverse": true,
+       "description": "Traverse the lip. Getting across the stain in the middle is the hard part.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "undercut-walls",
+     "name": "Undercut Walls",
+     "lat": 55.134332,
+     "lon": -1.916317,
+     "positionEstimated": true,
+     "size": [
+      22,
+      6
+     ],
+     "rotation": -17,
+     "description": "Undercut walls about 100m up the valley from the Boulder by the Gate.",
+     "problems": [
+      {
+       "number": "38",
+       "name": "",
+       "grade": "6a",
+       "traverse": true,
+       "description": "Traverse the two right-hand boulders from left to right. The step across from one to the other is the crux.",
+       "photo": null
+      },
+      {
+       "number": "39",
+       "name": "",
+       "grade": "6a",
+       "traverse": true,
+       "description": "From the crack at the left end, traverse right and finish at the grassy break.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "mrs-mops",
+     "name": "Mrs Mops",
+     "lat": 55.134808,
+     "lon": -1.916223,
+     "positionEstimated": true,
+     "size": [
+      10,
+      5
+     ],
+     "rotation": -9,
+     "description": "A neglected wall with some easier climbs.",
+     "problems": [
+      {
+       "number": "40",
+       "name": "",
+       "grade": "4",
+       "description": "Easy line up the pockets.",
+       "photo": null
+      },
+      {
+       "number": "41",
+       "name": "",
+       "grade": "4",
+       "description": "Just right of 40: the wall left of the obvious crack, using crimps only.",
+       "photo": null
+      },
+      {
+       "number": "42",
+       "name": "",
+       "grade": "4",
+       "description": "The crack.",
+       "photo": null
+      },
+      {
+       "number": "43",
+       "name": "",
+       "grade": "4",
+       "description": "Start just left of the right end of the buttress with hands in the bottom break, trend left and finish up the wall right of the crack.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "ravine-slab",
+     "name": "The Ravine, Low Slab",
+     "lat": 55.13532,
+     "lon": -1.916443,
+     "positionEstimated": true,
+     "size": [
+      14,
+      6
+     ],
+     "rotation": 0,
+     "description": "Low slab and boulder at the right (east) end of The Ravine, just down from Lost Arrowhead.",
+     "problems": [
+      {
+       "number": "44",
+       "name": "Shallow Groove",
+       "grade": "4",
+       "description": "The shallow groove.",
+       "photo": null,
+       "check": "Number hidden by the page fold, taken from the order on the page"
+      },
+      {
+       "number": "45",
+       "name": "Pocket Wall",
+       "grade": "4",
+       "description": "The wall by way of the big pocket.",
+       "photo": null,
+       "check": "Number and start of name hidden by the page fold"
+      },
+      {
+       "number": "46",
+       "name": "Side Wall",
+       "grade": "4",
+       "description": "Follow the line of good crimps.",
+       "photo": null,
+       "check": "Number and start of name hidden by the page fold"
+      },
+      {
+       "number": "47",
+       "name": "Hidden Crack",
+       "grade": "6a",
+       "description": "The crack behind the boulder.",
+       "photo": null,
+       "check": "Number and start of name hidden by the page fold"
+      },
+      {
+       "number": "48",
+       "name": "Young's Arête",
+       "grade": "6b",
+       "description": "The short arête next to the boulder.",
+       "photo": null,
+       "check": "Number and start of name hidden by the page fold"
+      }
+     ]
+    },
+    {
+     "id": "ravine-wall",
+     "name": "The Ravine, Main Wall",
+     "lat": 55.135338,
+     "lon": -1.916993,
+     "positionEstimated": true,
+     "size": [
+      34,
+      7
+     ],
+     "rotation": 0,
+     "description": "South-facing wall below Lost Arrowhead, with more eliminates squeezed between the listed lines. The slab right of Shallow Groove has many lines, easier the further right you go.",
+     "problems": [
+      {
+       "number": "49",
+       "name": "Easy Wall",
+       "grade": "4",
+       "description": "The wall just left of the corner crack.",
+       "photo": null
+      },
+      {
+       "number": "50",
+       "name": "Crack One",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start, then up the crack without using the big block.",
+       "photo": null
+      },
+      {
+       "number": "50a",
+       "name": "No Need for Speed",
+       "grade": "6c+",
+       "sitStart": true,
+       "description": "Link: start just left of 50 and finish up 51. Recommended.",
+       "photo": null
+      },
+      {
+       "number": "51",
+       "name": "Smooth Wall",
+       "grade": "7a",
+       "description": "The wall on poor sloping holds.",
+       "photo": null
+      },
+      {
+       "number": "52",
+       "name": "Crack Two",
+       "grade": "4",
+       "description": "The left-hand crack.",
+       "photo": null
+      },
+      {
+       "number": "52a",
+       "name": "Buford T Justice",
+       "grade": "6c+",
+       "description": "The smooth wall just left of the crack, hard on the grip.",
+       "photo": null
+      },
+      {
+       "number": "53",
+       "name": "Pocket Wall",
+       "grade": "5+",
+       "description": "The wall past a good pocket.",
+       "photo": null
+      },
+      {
+       "number": "54",
+       "name": "",
+       "grade": "5+",
+       "description": "Wall right of the hueco, trending right to the top.",
+       "photo": null
+      },
+      {
+       "number": "55",
+       "name": "Way Cool",
+       "grade": "5",
+       "description": "The wall using the big hueco.",
+       "photo": null
+      },
+      {
+       "number": "56",
+       "name": "",
+       "grade": "6a",
+       "description": "Next wall left, with a nasty top-out.",
+       "photo": null
+      },
+      {
+       "number": "57",
+       "name": "",
+       "grade": "5",
+       "description": "The wall further left again.",
+       "photo": null
+      },
+      {
+       "number": "LT",
+       "name": "Low Level Traverse",
+       "grade": "4",
+       "traverse": true,
+       "description": "Traverse along the wall at low level.",
+       "photo": null
+      },
+      {
+       "number": "MT",
+       "name": "Mid Level Traverse",
+       "grade": "4+",
+       "traverse": true,
+       "description": "Traverse along the wall at the height of the hole.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "big-birch-edge",
+     "name": "The Big Birch, Escarpment",
+     "lat": 55.135068,
+     "lon": -1.917873,
+     "positionEstimated": true,
+     "size": [
+      30,
+      6
+     ],
+     "rotation": -23,
+     "description": "Overgrown but worth a look, below a birch on top of the escarpment. Look for the two large birch trees.",
+     "problems": [
+      {
+       "number": "58",
+       "name": "",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "Sit start to the left arête.",
+       "photo": null
+      },
+      {
+       "number": "59",
+       "name": "",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "Sit start with the left hand on a pinch on the arête and the right on a sloper, reach a two-finger pocket, then another pocket on the lip and mantel.",
+       "photo": null
+      },
+      {
+       "number": "60",
+       "name": "",
+       "grade": "6b",
+       "sitStart": true,
+       "description": "Sit start, the right arête. A low traverse from left to right finishing up this arête is 6c.",
+       "photo": null
+      },
+      {
+       "number": "61",
+       "name": "",
+       "grade": "4+",
+       "sitStart": true,
+       "description": "About 10m right. Sit start on the block in the cave facing the left wall, move left out of the cave, then back right to top out over the lip.",
+       "photo": null
+      },
+      {
+       "number": "62",
+       "name": "",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Sit start, the wall left of the fluting.",
+       "photo": null
+      },
+      {
+       "number": "63",
+       "name": "",
+       "grade": "4",
+       "description": "The four clear flutings, keeping off the ledge on the left. 5 from a sit start.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "big-birch",
+     "name": "The Big Birch Boulder",
+     "lat": 55.135006,
+     "lon": -1.917496,
+     "positionEstimated": true,
+     "size": [
+      10,
+      6
+     ],
+     "rotation": -23,
+     "description": "The boulder next to the big birch tree.",
+     "problems": [
+      {
+       "number": "64",
+       "name": "",
+       "grade": "5",
+       "traverse": true,
+       "description": "Low-level traverse from left to right.",
+       "photo": null
+      },
+      {
+       "number": "65",
+       "name": "",
+       "grade": "6a",
+       "sitStart": true,
+       "description": "Sit start to the break, then up for a sloper and mantel. Easier if you use the left arête.",
+       "photo": null
+      },
+      {
+       "number": "66",
+       "name": "Branch Left",
+       "grade": "6a",
+       "description": "Start just left of the branch and go straight up.",
+       "photo": null
+      },
+      {
+       "number": "67",
+       "name": "Branch Right",
+       "grade": "6b",
+       "description": "From the undercuts just right of the branch, slap for a sloper, then expect an awkward landing on the slab or the ground.",
+       "photo": null
+      },
+      {
+       "number": "68",
+       "name": "",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start under the nose at the right end and mantel to finish.",
+       "photo": null
+      },
+      {
+       "number": "69",
+       "name": "Last of the Summer Wine",
+       "grade": "7a",
+       "traverse": true,
+       "description": "From the flat hold right of the right arête, move down and round the nose, traverse left with hands on top past the tree without touching it, and on to the left arête to finish as for 65.",
+       "photo": null,
+       "check": "Number partly hidden by glare"
+      }
+     ]
+    },
+    {
+     "id": "big-birch-east",
+     "name": "The Big Birch, East Boulders",
+     "lat": 55.13488,
+     "lon": -1.91693,
+     "positionEstimated": true,
+     "size": [
+      10,
+      6
+     ],
+     "rotation": -9,
+     "description": "Boulders just east of the Big Birch boulder.",
+     "problems": [
+      {
+       "number": "70",
+       "name": "",
+       "grade": "5+",
+       "sitStart": true,
+       "description": "Sit start from the layaway 2m left of the arête, move right round the nose with hands below the top, and finish at the top end of the boulder.",
+       "photo": null,
+       "check": "Number and grade partly hidden by glare. Rockfax lists a 5+ here called The Weasel"
+      },
+      {
+       "number": "71",
+       "name": "The Shelf",
+       "grade": "5",
+       "sitStart": true,
+       "description": "Under the roof to the right: sit start just right of the block on the ground, up and left to stand on the jutting shelf.",
+       "photo": null
+      },
+      {
+       "number": "72",
+       "name": "The Mantel",
+       "grade": "7a+",
+       "sitStart": true,
+       "description": "Sit start to the lip. With luck you finish on top rather than on the ground.",
        "photo": null
       }
      ]
