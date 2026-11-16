@@ -27,7 +27,7 @@
  ],
  "notes": "Over 300 problems on 50+ boulders across Shaftoe Moor. The ground gets wet and boggy in winter and after long rain. Rock quality varies, and it can be soft and friable at the base of some boulders.",
  "positionsNote": "Boulder positions are estimated. The guidebook's sketch maps were lined up with the rocks visible on satellite imagery and mapped in OpenStreetMap, then each boulder was placed on the nearest mapped rock. Some may still be tens of metres out, so correct them on site with the Fix position tool.",
- "source": "Problem names, numbers and grades from the Northumberland guidebook (Shaftoe pages 332-383). Descriptions written fresh for this app.",
+ "source": "Problem names and numbers from the Northumberland guidebook (Shaftoe pages 332-383), with grades and extra problems (numbered R1, R2...) from Rockfax Digital's public Shaftoe list. Descriptions written fresh for this app.",
  "sectors": [
   {
    "id": "rift",
@@ -50,7 +50,7 @@
       {
        "number": "1",
        "name": "First Problem",
-       "grade": "6a",
+       "grade": "6a+",
        "description": "Mantel onto the ledge just right of where Perpetual Motion starts.",
        "photo": null
       },
@@ -90,7 +90,7 @@
       {
        "number": "6",
        "name": "",
-       "grade": "6a",
+       "grade": "6a+",
        "sitStart": true,
        "description": "From a sitting start 2m right of the pothole, reach the lip and shuffle left to the pothole to pull over.",
        "photo": null
@@ -101,6 +101,20 @@
        "grade": "5+",
        "traverse": true,
        "description": "Left-to-right along the break then the lip, ending stood up above the cave.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Guns Don't Kill People",
+       "grade": "7a+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Rappers Do",
+       "grade": "6c+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -243,7 +257,7 @@
       {
        "number": "1",
        "name": "",
-       "grade": "4+",
+       "grade": "5",
        "description": "Right-hand line up the crack.",
        "photo": null
       },
@@ -260,6 +274,13 @@
        "grade": "6c",
        "sitStart": true,
        "description": "Sit start at the far right end, then climb diagonally leftwards.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Pudding Filler",
+       "grade": "4",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -318,6 +339,13 @@
        "grade": "5+",
        "description": "The wall, getting harder as you go.",
        "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Small Wall",
+       "grade": "4",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
       }
      ]
     },
@@ -337,7 +365,7 @@
       {
        "number": "10",
        "name": "",
-       "grade": "5",
+       "grade": "5+",
        "sitStart": true,
        "description": "Sit start on the left arête, mantel to finish.",
        "photo": null
@@ -345,7 +373,7 @@
       {
        "number": "11",
        "name": "Piano",
-       "grade": "7b",
+       "grade": "7b+",
        "sitStart": true,
        "description": "Sit start at the left arête, follow the overlap rightwards on undercuts to the right arête, then up to the break.",
        "photo": null,
@@ -362,14 +390,14 @@
       {
        "number": "13",
        "name": "The Long Reach",
-       "grade": "6a",
+       "grade": "6c",
        "description": "From the middle of the wall, use the undercling to reach the top. Sit start is 7b.",
        "photo": null
       },
       {
        "number": "14",
        "name": "Slapper",
-       "grade": "7a",
+       "grade": "6c",
        "sitStart": true,
        "description": "Left side of the arête from a sit start, right hand on the arête.",
        "photo": null
@@ -407,14 +435,14 @@
       {
        "number": "19",
        "name": "",
-       "grade": "5+",
+       "grade": "6a",
        "description": "Slopers left of the arête to an undercut, then straight up.",
        "photo": null
       },
       {
        "number": "20",
        "name": "Classic Arête",
-       "grade": "6a",
+       "grade": "6a+",
        "sitStart": true,
        "description": "The arête from a sit start.",
        "photo": null,
@@ -445,8 +473,52 @@
       {
        "number": "24",
        "name": "",
-       "grade": "5+",
+       "grade": "6a",
        "description": "Start as 23, then up and right to a pocket and a crimp in the break.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Oh Grow Up",
+       "grade": "7a+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "The Long Reach SDS",
+       "grade": "7a",
+       "sitStart": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Arete Land Traverse",
+       "grade": "6a+",
+       "traverse": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R4",
+       "name": "Throw the Dice",
+       "grade": "7a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R5",
+       "name": "Shaftoe Bloc",
+       "grade": "7a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R6",
+       "name": "Twenty One Again",
+       "grade": "5+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -554,6 +626,27 @@
        "grade": "6c",
        "description": "Mantel over the lip.",
        "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Do You Have Nothing Better To Do?",
+       "grade": "7b+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "The Punisher",
+       "grade": "8a+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Punishment Mantel",
+       "grade": "6c",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
       }
      ]
     },
@@ -632,27 +725,30 @@
      "problems": [
       {
        "number": "39",
-       "name": "",
+       "name": "From the Left",
        "grade": "7a",
        "traverse": true,
        "description": "From the left, traverse to the nose and mantel.",
-       "photo": null
+       "photo": null,
+       "check": "Name from Rockfax, matched by its place in the list and its grade"
       },
       {
        "number": "40",
-       "name": "",
+       "name": "From the Right",
        "grade": "6c",
        "traverse": true,
        "description": "From the right, traverse to the nose and mantel.",
-       "photo": null
+       "photo": null,
+       "check": "Name from Rockfax, matched by its place in the list and its grade"
       },
       {
        "number": "41",
-       "name": "",
+       "name": "Total Traverse",
        "grade": "7a",
        "traverse": true,
        "description": "Girdle the whole boulder in either direction.",
-       "photo": null
+       "photo": null,
+       "check": "Name from Rockfax, matched by its place in the list and its grade"
       }
      ]
     },
@@ -680,6 +776,100 @@
        "popular": true
       }
      ]
+    },
+    {
+     "id": "napoleon",
+     "name": "Napoleon",
+     "lat": 55.138365,
+     "lon": -1.917134,
+     "positionEstimated": true,
+     "size": [
+      6,
+      4
+     ],
+     "rotation": 75,
+     "description": "Small boulder between The Grindstone and Jubilee Boulder. Position estimated.",
+     "problems": [
+      {
+       "number": "R1",
+       "name": "Napoleon 1",
+       "grade": "4+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Napoleon 2",
+       "grade": "4+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Napoleon 3",
+       "grade": "3",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "snowball",
+     "name": "Snowball",
+     "lat": 55.13824,
+     "lon": -1.917229,
+     "positionEstimated": true,
+     "size": [
+      5,
+      4
+     ],
+     "rotation": 75,
+     "description": "Small boulder between The Grindstone and Jubilee Boulder. Position estimated.",
+     "problems": [
+      {
+       "number": "R1",
+       "name": "Snowball 1",
+       "grade": "4+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Snowball 2",
+       "grade": "5",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      }
+     ]
+    },
+    {
+     "id": "squealer",
+     "name": "Squealer",
+     "lat": 55.138042,
+     "lon": -1.917244,
+     "positionEstimated": true,
+     "size": [
+      5,
+      4
+     ],
+     "rotation": 63,
+     "description": "Small boulder between The Grindstone and Jubilee Boulder. Position estimated.",
+     "problems": [
+      {
+       "number": "R1",
+       "name": "Squealer 1",
+       "grade": "3",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Squealer 2",
+       "grade": "3+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      }
+     ]
     }
    ]
   },
@@ -704,7 +894,7 @@
       {
        "number": "1",
        "name": "In the Nick",
-       "grade": "6a+",
+       "grade": "6c",
        "traverse": true,
        "description": "From the far left of the ledge, hand traverse right round the arête and up to the break.",
        "photo": null
@@ -712,21 +902,21 @@
       {
        "number": "2",
        "name": "Sharp Arête",
-       "grade": "6a",
+       "grade": "5",
        "description": "Left side of the sharp arête, beside a small alcove.",
        "photo": null
       },
       {
        "number": "3",
        "name": "Crack and Roof",
-       "grade": "6b",
+       "grade": "5",
        "description": "Crack through the roof to a tricky mantel. Poor landing.",
        "photo": null
       },
       {
        "number": "4",
        "name": "Salt n Pepper",
-       "grade": "5+",
+       "grade": "6a",
        "description": "Undercut blunt arête, climbable either side. The right side is harder, 6a.",
        "photo": null
       },
@@ -735,6 +925,13 @@
        "name": "'S' Crack",
        "grade": "4",
        "description": "S-shaped crack to a juggy top.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Salt n Pepper Right",
+       "grade": "6a+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -803,7 +1000,7 @@
       {
        "number": "9",
        "name": "",
-       "grade": "6c",
+       "grade": "6c+",
        "sitStart": true,
        "description": "Sit start, use the hold at the top of the faint flake to reach the lip, mantel using quartz holds or slopers.",
        "photo": null
@@ -814,6 +1011,13 @@
        "grade": "5+",
        "sitStart": true,
        "description": "Sit start on a tiny undercut and a nodule, slap for the big hole and mantel.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Big Ear",
+       "grade": "5+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -838,6 +1042,13 @@
        "sitStart": true,
        "description": "Sit start, bottom right to top left.",
        "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Small Fry",
+       "grade": "4+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
       }
      ]
     },
@@ -857,7 +1068,7 @@
       {
        "number": "12",
        "name": "Syco Sheep",
-       "grade": "6c",
+       "grade": "6b+",
        "highball": true,
        "description": "Below the bottomless arête, up under the roof, out left to a sloper and up the arête and fluting. Highball, a spotter is essential.",
        "photo": null,
@@ -875,8 +1086,8 @@
     {
      "id": "finger-bowl",
      "name": "Finger Bowl Boulders",
-     "lat": 55.134934,
-     "lon": -1.91715,
+     "lat": 55.134925,
+     "lon": -1.916961,
      "positionEstimated": true,
      "size": [
       8,
@@ -948,7 +1159,7 @@
       {
        "number": "20",
        "name": "The Temporary Neb",
-       "grade": "5",
+       "grade": "5+",
        "sitStart": true,
        "traverse": true,
        "description": "Lip traverse from a sit start left of 17, ending with a frantic mantel right of 18.",
@@ -1002,7 +1213,7 @@
       {
        "number": "24",
        "name": "Stone Age Man",
-       "grade": "7a+",
+       "grade": "7b",
        "description": "From the back of the cave on a flatty and a layaway, cross the roof to potholes by the lip and wrestle onto the slab.",
        "photo": null
       },
@@ -1039,6 +1250,34 @@
        "description": "Classic left-to-right lip traverse: up Axe Head to the break, along the lip, finish up Lost Arrowhead.",
        "photo": null,
        "popular": true
+      },
+      {
+       "number": "R1",
+       "name": "Broken Arrowhead",
+       "grade": "7a+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "California Man",
+       "grade": "7c",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Stoned & Lost Man",
+       "grade": "6c+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R4",
+       "name": "Paralytic Man",
+       "grade": "6b+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
       }
      ]
     },
@@ -1073,7 +1312,7 @@
       {
        "number": "31",
        "name": "",
-       "grade": "6a",
+       "grade": "6a+",
        "description": "Middle of the wall, avoiding the crack.",
        "photo": null,
        "check": "Name hidden and grade only partly visible (looks like 6a)"
@@ -1163,11 +1402,12 @@
      "problems": [
       {
        "number": "37",
-       "name": "",
+       "name": "Gateway Roof",
        "grade": "7a",
        "traverse": true,
        "description": "Traverse the lip. Getting across the stain in the middle is the hard part.",
-       "photo": null
+       "photo": null,
+       "check": "Name from Rockfax, matched by its place in the list and its grade"
       }
      ]
     },
@@ -1218,7 +1458,7 @@
       {
        "number": "40",
        "name": "",
-       "grade": "4",
+       "grade": "3+",
        "description": "Easy line up the pockets.",
        "photo": null
       },
@@ -1232,14 +1472,14 @@
       {
        "number": "42",
        "name": "",
-       "grade": "4",
+       "grade": "3+",
        "description": "The crack.",
        "photo": null
       },
       {
        "number": "43",
        "name": "",
-       "grade": "4",
+       "grade": "4+",
        "description": "Start just left of the right end of the buttress with hands in the bottom break, trend left and finish up the wall right of the crack.",
        "photo": null
       }
@@ -1277,7 +1517,7 @@
       {
        "number": "46",
        "name": "Side Wall",
-       "grade": "4",
+       "grade": "3+",
        "description": "Follow the line of good crimps.",
        "photo": null,
        "check": "Number and start of name hidden by the page fold"
@@ -1285,7 +1525,7 @@
       {
        "number": "47",
        "name": "Hidden Crack",
-       "grade": "6a",
+       "grade": "5",
        "description": "The crack behind the boulder.",
        "photo": null,
        "check": "Number and start of name hidden by the page fold"
@@ -1297,6 +1537,62 @@
        "description": "The short arête next to the boulder.",
        "photo": null,
        "check": "Number and start of name hidden by the page fold"
+      },
+      {
+       "number": "R1",
+       "name": "No Pocket Wall",
+       "grade": "4",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Crimp Wall",
+       "grade": "4",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Teeter",
+       "grade": "4+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R4",
+       "name": "Pebble Dash Left",
+       "grade": "4+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R5",
+       "name": "Pebble Dash",
+       "grade": "4+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R6",
+       "name": "Thumbs",
+       "grade": "4+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R7",
+       "name": "Slab 1",
+       "grade": "3",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R8",
+       "name": "Slab 2",
+       "grade": "3",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
       }
      ]
     },
@@ -1331,7 +1627,7 @@
       {
        "number": "50a",
        "name": "No Need for Speed",
-       "grade": "6c+",
+       "grade": "7a",
        "sitStart": true,
        "description": "Link: start just left of 50 and finish up 51. Recommended.",
        "photo": null
@@ -1353,7 +1649,7 @@
       {
        "number": "52a",
        "name": "Buford T Justice",
-       "grade": "6c+",
+       "grade": "6b+",
        "description": "The smooth wall just left of the crack, hard on the grip.",
        "photo": null
       },
@@ -1381,7 +1677,7 @@
       {
        "number": "56",
        "name": "",
-       "grade": "6a",
+       "grade": "5+",
        "description": "Next wall left, with a nasty top-out.",
        "photo": null
       },
@@ -1395,7 +1691,7 @@
       {
        "number": "LT",
        "name": "Low Level Traverse",
-       "grade": "4",
+       "grade": "4+",
        "traverse": true,
        "description": "Traverse along the wall at low level.",
        "photo": null
@@ -1406,6 +1702,13 @@
        "grade": "4+",
        "traverse": true,
        "description": "Traverse along the wall at the height of the hole.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Smoothest Wall",
+       "grade": "6b",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -1537,8 +1840,8 @@
     {
      "id": "big-birch-east",
      "name": "The Big Birch, East Boulders",
-     "lat": 55.13488,
-     "lon": -1.91693,
+     "lat": 55.134934,
+     "lon": -1.91715,
      "positionEstimated": true,
      "size": [
       10,
@@ -1549,12 +1852,12 @@
      "problems": [
       {
        "number": "70",
-       "name": "",
+       "name": "The Weasel",
        "grade": "5+",
        "sitStart": true,
        "description": "Sit start from the layaway 2m left of the arête, move right round the nose with hands below the top, and finish at the top end of the boulder.",
        "photo": null,
-       "check": "Number and grade partly hidden by glare. Rockfax lists a 5+ here called The Weasel"
+       "check": "Number and grade partly hidden by glare; name from Rockfax"
       },
       {
        "number": "71",
@@ -1570,6 +1873,13 @@
        "grade": "7a+",
        "sitStart": true,
        "description": "Sit start to the lip. With luck you finish on top rather than on the ground.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "The Super Mantel",
+       "grade": "7b",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -1597,18 +1907,16 @@
       {
        "number": "1",
        "name": "Bleaustard",
-       "grade": "6a+",
+       "grade": "6a",
        "description": "Up to the crack, then finger locks and jams.",
-       "photo": null,
-       "check": "Name completed from Rockfax (the photo showed only the end). Guidebook 6a+, Rockfax 6a"
+       "photo": null
       },
       {
        "number": "2",
        "name": "Purely Belter",
-       "grade": "8a",
+       "grade": "7b",
        "description": "Hard bulge right of the crack. If it feels easy you are too far right.",
-       "photo": null,
-       "check": "Guidebook photo shows 8a, Rockfax gives 7b"
+       "photo": null
       },
       {
        "number": "3",
@@ -1621,7 +1929,7 @@
       {
        "number": "4",
        "name": "Incipient Crack",
-       "grade": "6a",
+       "grade": "6a+",
        "description": "Hanging crack from standing. Sit start from the pedestal left of the lower hairline crack is 7a.",
        "photo": null,
        "popular": true
@@ -1636,24 +1944,23 @@
       {
        "number": "6",
        "name": "Short Crack",
-       "grade": "4+",
+       "grade": "5",
        "description": "The crack using hands only.",
        "photo": null,
        "check": "Start of name cut off by the page fold"
       },
       {
        "number": "7",
-       "name": "The Prow",
+       "name": "Little Prow",
        "grade": "6a",
        "sitStart": true,
        "description": "The prow from a sit start.",
-       "photo": null,
-       "check": "Start of name cut off by the page fold"
+       "photo": null
       },
       {
        "number": "8",
        "name": "Cuvier",
-       "grade": "6a",
+       "grade": "6a+",
        "description": "From the break under the roof at the right end, gain holds above the lip and mantel. No bridging.",
        "photo": null,
        "check": "Start of name cut off by the page fold"
@@ -1696,6 +2003,29 @@
        "grade": "6a",
        "traverse": true,
        "description": "Hand traverse the top past the crack to the heather ledge.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Strenuous Solution",
+       "grade": "7a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Incipient Crack Sit",
+       "grade": "6b+",
+       "sitStart": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Font Boulder 5 Sit",
+       "grade": "6b",
+       "sitStart": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -2057,7 +2387,7 @@
       {
        "number": "44",
        "name": "Underbelly",
-       "grade": "5",
+       "grade": "4+",
        "traverse": true,
        "description": "Follow the horizontal break under the turtle left to right and back.",
        "photo": null
@@ -2073,7 +2403,7 @@
       {
        "number": "46",
        "name": "Blood Sport",
-       "grade": "8b",
+       "grade": "8a+",
        "description": "From the back wall, power across the roof to the hole at the lip, then the break, then the lip. The most sought-after line here.",
        "photo": null,
        "popular": true
@@ -2097,15 +2427,22 @@
       {
        "number": "49",
        "name": "Hard Shell",
-       "grade": "6c",
+       "grade": "6c+",
        "description": "Overhanging wall bridging across the groove, no hands on the right wall.",
        "photo": null
       },
       {
        "number": "50",
        "name": "Darkness Beckons",
-       "grade": "6a",
+       "grade": "6a+",
        "description": "Wall just right of the overhanging groove.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Blood Sport Left-hand",
+       "grade": "8b+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -2143,7 +2480,7 @@
       {
        "number": "53",
        "name": "Crease Classic",
-       "grade": "6b",
+       "grade": "6c",
        "sitStart": true,
        "description": "Sit start under the roof, pull out and follow the crease up the middle of the wall.",
        "photo": null,
@@ -2160,7 +2497,7 @@
       {
        "number": "55",
        "name": "The Neb Roof",
-       "grade": "6c",
+       "grade": "6c+",
        "sitStart": true,
        "description": "Sit start at the pedestal at the back, straight out across the roof.",
        "photo": null,
@@ -2169,7 +2506,7 @@
       {
        "number": "56",
        "name": "The Original",
-       "grade": "6a",
+       "grade": "6a+",
        "sitStart": true,
        "description": "Sit start under the roof, out to the lip and a flat hold, follow it left to the big pocket and mantel.",
        "photo": null
@@ -2198,7 +2535,7 @@
       {
        "number": "60",
        "name": "Sloper Masterclass",
-       "grade": "5+",
+       "grade": "6a+",
        "description": "Start as 56, then right along the rounded breaks to the top. Lots of variations, all slopers.",
        "photo": null,
        "popular": true
@@ -2206,7 +2543,7 @@
       {
        "number": "61",
        "name": "",
-       "grade": "6a",
+       "grade": "6b",
        "description": "Start as 56, right along a series of rounded breaks to stand in a big pocket and top out.",
        "photo": null
       },
@@ -2242,6 +2579,27 @@
        "grade": "7a",
        "sitStart": true,
        "description": "Sit start as Aside, up to the crease and slopers left to the left arête, hands above the break.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Power Arete",
+       "grade": "7b",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "All Powered Out!",
+       "grade": "7c+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Honorary Gardom's",
+       "grade": "7b",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -2339,6 +2697,13 @@
        "traverse": true,
        "description": "Left to right under the lip. Stays dry in the rain.",
        "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Clueless Caiman Hunters",
+       "grade": "6a+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
       }
      ]
     },
@@ -2399,7 +2764,7 @@
       {
        "number": "14",
        "name": "",
-       "grade": "6c",
+       "grade": "7a",
        "traverse": true,
        "description": "Hard traverse of the boulder, left to right.",
        "photo": null
@@ -2446,7 +2811,7 @@
       {
        "number": "18",
        "name": "",
-       "grade": "4",
+       "grade": "5",
        "sitStart": true,
        "description": "Crouching start 2m right of the arête on a lip crimp, up and left.",
        "photo": null
@@ -2454,7 +2819,7 @@
       {
        "number": "19",
        "name": "",
-       "grade": "4+",
+       "grade": "5",
        "sitStart": true,
        "description": "Crouching start under the roof 3m right of the arête, to a pocket or dish, then up.",
        "photo": null
@@ -2508,7 +2873,7 @@
       {
        "number": "26",
        "name": "Mantel Madness",
-       "grade": "6c",
+       "grade": "6c+",
        "description": "Left of the right arête, good holds over the roof to a sloping ledge and a hard mantel.",
        "photo": null,
        "popular": true
@@ -2524,9 +2889,30 @@
       {
        "number": "28",
        "name": "Dishpan Alley Traverse",
-       "grade": "5+",
+       "grade": "6a",
        "traverse": true,
        "description": "From round the corner left of 16, hand traverse past a finger-lock and layback to the right arête.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Crimps",
+       "grade": "6a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Troy's Eliminate",
+       "grade": "6b",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "There and Back",
+       "grade": "6c",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -2547,7 +2933,7 @@
       {
        "number": "29",
        "name": "",
-       "grade": "5+",
+       "grade": "6a",
        "sitStart": true,
        "description": "Sit start 1m left of the Blunt Nose, up to the break and crimps to good holds.",
        "photo": null
@@ -2571,7 +2957,7 @@
       {
        "number": "32",
        "name": "",
-       "grade": "4",
+       "grade": "4+",
        "description": "From the far right end of the ledge, straight up on good holds.",
        "photo": null
       },
@@ -2615,7 +3001,7 @@
       {
        "number": "36",
        "name": "Viagra Plus",
-       "grade": "6b+",
+       "grade": "6c",
        "description": "Rib right of the arête to a good hold. Sit start is 7b.",
        "photo": null
       },
@@ -2646,14 +3032,14 @@
       {
        "number": "39",
        "name": "Main Wall",
-       "grade": "6c",
+       "grade": "6c+",
        "description": "Scoop right of centre, moving right at the top. Main Wall SS, from the back of the cave across the roof with a one-finger pocket, is 7b+.",
        "photo": null
       },
       {
        "number": "40",
        "name": "Timmy Tip Toes",
-       "grade": "7a+",
+       "grade": "7b",
        "description": "Right arête, mostly on its right side, from a good flake under the roof.",
        "photo": null,
        "popular": true
@@ -2681,10 +3067,42 @@
       },
       {
        "number": "44",
-       "name": "",
+       "name": "Main Buttress Traverse",
        "grade": "6c",
        "traverse": true,
        "description": "From the big flutings on the right, traverse left with feet above the lip, finish up 36.",
+       "photo": null,
+       "check": "Name from Rockfax, matched by its place in the list and its grade"
+      },
+      {
+       "number": "R1",
+       "name": "Viagra Plus Sit",
+       "grade": "7a+",
+       "sitStart": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Sloppy Ploppin Sit",
+       "grade": "7c+",
+       "sitStart": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Slug Life",
+       "grade": "8a+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R4",
+       "name": "Main Wall Sit",
+       "grade": "7b+",
+       "sitStart": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -2734,6 +3152,28 @@
        "description": "Traverse leftwards from 49 past the flutings to 43.",
        "photo": null,
        "check": "Number hidden in the shadow"
+      },
+      {
+       "number": "R1",
+       "name": "Left Rib",
+       "grade": "4",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Right Rib",
+       "grade": "4",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Buzzing Sit",
+       "grade": "7a",
+       "sitStart": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
       }
      ]
     },
@@ -2760,7 +3200,7 @@
       {
        "number": "49",
        "name": "Cob Arête",
-       "grade": "5",
+       "grade": "5+",
        "description": "The photogenic arête.",
        "photo": null,
        "popular": true
@@ -2790,7 +3230,7 @@
       {
        "number": "53",
        "name": "Hip Hop",
-       "grade": "6a",
+       "grade": "6b",
        "description": "From the right end, use an undercut to reach an obvious pocket at 3m and top out.",
        "photo": null
       },
@@ -2813,7 +3253,7 @@
       {
        "number": "56",
        "name": "The Link",
-       "grade": "6a",
+       "grade": "6c",
        "traverse": true,
        "description": "Traverse the west face of The Cob.",
        "photo": null
@@ -2855,6 +3295,13 @@
        "grade": "5+",
        "traverse": true,
        "description": "Lip of the roof from 58 to 60.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "The Cob Right Start",
+       "grade": "5",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -2898,7 +3345,7 @@
       {
        "number": "64a",
        "name": "Wolf",
-       "grade": "6b",
+       "grade": "6b+",
        "sitStart": true,
        "description": "Sit start, undercut up to two small bumps, then the top.",
        "photo": null
@@ -2921,8 +3368,23 @@
       {
        "number": "67",
        "name": "Lost Crack",
-       "grade": "5",
+       "grade": "4+",
        "description": "Rough crack. Sit start is 5+.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Green Slider",
+       "grade": "3",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Lip Traverse",
+       "grade": "4",
+       "traverse": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -3013,7 +3475,7 @@
       {
        "number": "73",
        "name": "A Week in Provence",
-       "grade": "7c",
+       "grade": "7b+",
        "traverse": true,
        "description": "From the layaway left of the nose, traverse right below the lip to a mantel.",
        "photo": null
@@ -3146,10 +3608,9 @@
       {
        "number": "8",
        "name": "The Real Duvel 8.5%",
-       "grade": "7a",
+       "grade": "6c",
        "description": "Halfway between the left boulder and the channel, power over the bulge.",
-       "photo": null,
-       "check": "Guidebook photo shows 7a, Rockfax gives 6c (and 6c+ for an extension)"
+       "photo": null
       },
       {
        "number": "9",
@@ -3182,6 +3643,48 @@
        "sitStart": true,
        "description": "Sit start with both hands on the flake under the roof, powerful moves up and over.",
        "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "The Real Duvel 8.5% Extension",
+       "grade": "6c+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Mantel Pudding",
+       "grade": "7a+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Mantel Pudding Alternative",
+       "grade": "7a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R4",
+       "name": "Duvel 6.66%",
+       "grade": "7a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R5",
+       "name": "Belgian Blond",
+       "grade": "7a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R6",
+       "name": "0% Alcohol",
+       "grade": "7a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
       }
      ]
     },
@@ -3201,7 +3704,7 @@
       {
        "number": "13",
        "name": "Flake Crack",
-       "grade": "4+",
+       "grade": "5",
        "description": "Awkward layback flake 5m left of the cave mouth.",
        "photo": null
       },
@@ -3248,6 +3751,13 @@
        "description": "Wall right of the cave.",
        "photo": null,
        "check": "Name partly hidden by glare"
+      },
+      {
+       "number": "R1",
+       "name": "Surface to Air Missile",
+       "grade": "7a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
       }
      ]
     },
@@ -3346,6 +3856,64 @@
        "description": "Pull over the block to an awkward mantel.",
        "photo": null,
        "popular": true
+      },
+      {
+       "number": "R1",
+       "name": "Long Wall Lip Traverse",
+       "grade": "7a",
+       "traverse": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Flesh to Nothing",
+       "grade": "6c",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Desperate Times",
+       "grade": "6c+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R4",
+       "name": "3 Fingers, 1 Pebble",
+       "grade": "6c",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R5",
+       "name": "The Brothers Grimm",
+       "grade": "6a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R6",
+       "name": "Filthy Gem",
+       "grade": "7a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R7",
+       "name": "Hidden Gem",
+       "grade": "6b+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R8",
+       "name": "Green Wall Sit",
+       "grade": "6b+",
+       "sitStart": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
       }
      ]
     },
@@ -3367,6 +3935,20 @@
        "name": "Wickerman",
        "grade": "6b",
        "description": "Mantel onto the boulder.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Wicker Arete",
+       "grade": "6c",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Wickerman Warm-up",
+       "grade": "4",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -3415,10 +3997,11 @@
      "problems": [
       {
        "number": "30",
-       "name": "",
+       "name": "Short Left Wall",
        "grade": "4",
        "description": "Short left wall of the alcove.",
-       "photo": null
+       "photo": null,
+       "check": "Name from Rockfax, matched by its place in the list and its grade"
       },
       {
        "number": "31",
@@ -3436,24 +4019,27 @@
       },
       {
        "number": "33",
-       "name": "",
+       "name": "Behind the Tree",
        "grade": "5+",
        "description": "Wall right behind the tree.",
-       "photo": null
+       "photo": null,
+       "check": "Name from Rockfax, matched by its place in the list and its grade"
       },
       {
        "number": "34",
-       "name": "",
+       "name": "Left of Chimney",
        "grade": "4",
        "description": "Left wall of the chockstone chimney by the arête. No bridging.",
-       "photo": null
+       "photo": null,
+       "check": "Name from Rockfax, matched by its place in the list and its grade"
       },
       {
        "number": "35",
-       "name": "",
+       "name": "Right of Chimney",
        "grade": "5+",
        "description": "Right wall of the chimney. No bridging.",
-       "photo": null
+       "photo": null,
+       "check": "Name from Rockfax, matched by its place in the list and its grade"
       },
       {
        "number": "36",
@@ -3465,11 +4051,18 @@
       {
        "number": "37",
        "name": "Butch Catch-Me and the Campus Board Kid",
-       "grade": "6c+",
+       "grade": "7a",
        "sitStart": true,
        "description": "Sit start, crimps from a good lip hold up and right to slap for a jug set back from the edge.",
        "photo": null,
        "popular": true
+      },
+      {
+       "number": "R1",
+       "name": "Wall Right",
+       "grade": "6a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
       }
      ]
     },
@@ -3489,7 +4082,7 @@
       {
        "number": "38",
        "name": "A Tale of Two Cities",
-       "grade": "5+",
+       "grade": "6a",
        "traverse": true,
        "description": "Upper tier: from the block behind the lower tier, hands in the crack, finish on the right-hand block.",
        "photo": null,
@@ -3538,7 +4131,7 @@
       {
        "number": "43",
        "name": "Edge of Sanity",
-       "grade": "5",
+       "grade": "5+",
        "sitStart": true,
        "description": "Sit start to the left arête of the slanting crack.",
        "photo": null
@@ -3562,7 +4155,7 @@
       {
        "number": "46",
        "name": "Two Tears",
-       "grade": "7a+",
+       "grade": "7b",
        "sitStart": true,
        "description": "Sit start under the bulge, up the left crease, hard finish.",
        "photo": null
@@ -3573,6 +4166,13 @@
        "grade": "5+",
        "sitStart": true,
        "description": "Sit start at the right end just right of the bulge, right crease to the top.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "Velcroman",
+       "grade": "6c+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]
@@ -3628,7 +4228,7 @@
       {
        "number": "53",
        "name": "Side Wall",
-       "grade": "4+",
+       "grade": "5",
        "description": "Short wall to a tricky mantel.",
        "photo": null
       }
@@ -3689,7 +4289,7 @@
       {
        "number": "57",
        "name": "Intermittent Crack",
-       "grade": "5+",
+       "grade": "6a",
        "description": "Broken crack splitting the left edge of the boulder.",
        "photo": null,
        "check": "Start of name cut off"
@@ -3697,7 +4297,7 @@
       {
        "number": "58",
        "name": "Not to be Taken Away",
-       "grade": "5",
+       "grade": "5+",
        "description": "Flake on the left of the front wall to the second break, long reach to finish.",
        "photo": null,
        "check": "Start of name cut off"
@@ -3737,6 +4337,57 @@
        "name": "",
        "grade": "4",
        "description": "Hillside Face: the easy slab on the right.",
+       "photo": null
+      },
+      {
+       "number": "R1",
+       "name": "The Lip Sit",
+       "grade": "7a+",
+       "sitStart": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R2",
+       "name": "Spinal Tap",
+       "grade": "7c",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R3",
+       "name": "Capability Brawn",
+       "grade": "8b",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R4",
+       "name": "Real Slim Shady Left-hand",
+       "grade": "7b",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R5",
+       "name": "Slim Shady Sit",
+       "grade": "7a",
+       "sitStart": true,
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R6",
+       "name": "Real Slim Shady",
+       "grade": "7a+",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
+       "photo": null
+      },
+      {
+       "number": "R7",
+       "name": "King Prawn",
+       "grade": "6a",
+       "description": "From Rockfax's public list: name, grade and area only. Where it goes on the boulder is a guess.",
        "photo": null
       }
      ]

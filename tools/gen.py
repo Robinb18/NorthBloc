@@ -1,6 +1,8 @@
 import json, math, sys
 sys.path.insert(0,'.')
-from spec import S
+from spec import S, B
+import rockfax_extra
+rockfax_extra.add_to(S, B)
 from fit import fit
 fit(S)
 LAT0, LON0 = 55.13638, -1.91605   # NZ054824 (centre of the 100m square)
@@ -49,7 +51,7 @@ crag={
     "note":"From Belsay follow the A696 towards Jedburgh and park in the lay-by on the right. Walk back to the track signed Ferney Chesters and Shaftoe Grange, about 5 minutes to the crag."}],
  "notes":"Over 300 problems on 50+ boulders across Shaftoe Moor. The ground gets wet and boggy in winter and after long rain. Rock quality varies, and it can be soft and friable at the base of some boulders.",
  "positionsNote":"Boulder positions are estimated. The guidebook's sketch maps were lined up with the rocks visible on satellite imagery and mapped in OpenStreetMap, then each boulder was placed on the nearest mapped rock. Some may still be tens of metres out, so correct them on site with the Fix position tool.",
- "source":"Problem names, numbers and grades from the Northumberland guidebook (Shaftoe pages 332-383). Descriptions written fresh for this app.",
+ "source":"Problem names and numbers from the Northumberland guidebook (Shaftoe pages 332-383), with grades and extra problems (numbered R1, R2...) from Rockfax Digital's public Shaftoe list. Descriptions written fresh for this app.",
  "sectors":sectors}
 json.dump(crag,open('shaftoe.json','w'),indent=1,ensure_ascii=False)
 np=sum(len(b['problems']) for s in sectors for b in s['boulders']); nb=sum(len(s['boulders']) for s in sectors)

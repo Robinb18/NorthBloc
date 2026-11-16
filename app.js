@@ -507,7 +507,7 @@
       rows.forEach((p) => { const k = p.crag.name + " · " + p.sector.name; if (!bySector.has(k)) bySector.set(k, []); bySector.get(k).push(p); });
       for (const [k, ps] of bySector) {
         h += '<div class="list-head">' + esc(k) + "</div>";
-        ps.sort((a, b) => a.boulder.name.localeCompare(b.boulder.name) || parseFloat(a.number) - parseFloat(b.number));
+        ps.sort((a, b) => a.boulder.name.localeCompare(b.boulder.name) || String(a.number).localeCompare(String(b.number), undefined, { numeric: true }));
         for (const p of ps) {
           const t = S.ticks.has(p.uid), pr = S.projects.has(p.uid);
           h += '<button class="tl-row" data-p="' + esc(p.uid) + '"><span class="num"><span class="dot c-' + p.level.color + '">' + esc(p.number) + '</span></span><span class="nm">' + esc(p.label) + '</span><span class="st">' + (pr ? '<span style="color:var(--star)">' + ICON.star + "</span>" : "") + (t ? ICON.tick : "") + '</span><span class="gr">' + esc(p.grade === "?" ? "–" : p.grade) + "</span></button>";
